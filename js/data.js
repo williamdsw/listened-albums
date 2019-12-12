@@ -146,5 +146,13 @@ const albums =
         cover: "https://upload.wikimedia.org/wikipedia/en/c/c9/Rush_2112.jpg",
         spotifyLink: "https://open.spotify.com/album/5g5aKkI0ExfU4kDvADP6JK",
     }),
+    new Album ({
+        name: "Seven Inches of Satanic Panic",
+        artist: "Ghost",
+        genre: "Psychedelic Rock",
+        releaseYear: 2019,
+        cover: "https://upload.wikimedia.org/wikipedia/en/a/af/Ghost_-_Seven_Inches_of_Satanic_Panic.jpg",
+        spotifyLink: "https://open.spotify.com/album/6eOWfFjfBPRsAW0ZS4sbaF",
+    }),
 
 ];
