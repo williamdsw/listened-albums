@@ -154,5 +154,12 @@ const albums =
         cover: "https://upload.wikimedia.org/wikipedia/en/a/af/Ghost_-_Seven_Inches_of_Satanic_Panic.jpg",
         spotifyLink: "https://open.spotify.com/album/6eOWfFjfBPRsAW0ZS4sbaF",
     }),
-
+    new Album ({
+        name: "Point Blank",
+        artist: "Nailbomb",
+        genre: "Industrial Thrash Metal",
+        releaseYear: 1994,
+        cover: "https://upload.wikimedia.org/wikipedia/en/c/ce/Point_Blank_%28Nailbomb_album%29_coverart.jpg",
+        spotifyLink: "https://open.spotify.com/album/0CcgwAkqiglrLu6lH5lrSU",
+    }),
 ];
