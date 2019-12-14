@@ -1,6 +1,7 @@
 body {background-color: #1e2c4f; }
 
 /* album */
+#albums_header { color: white; text-shadow: 2px 2px purple; }
 .album { color: white; text-shadow: 2px 1px red; }
 .album a { text-shadow: none; }
 .album a.listen { color: yellow; font-weight: bold; }

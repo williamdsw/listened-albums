@@ -1,9 +1,19 @@
 "use strict";
 
+//-------------------------------------------------------------------//
+// ELEMENTS
+
+const albumHeader = document.querySelector ('#albums_header');
+const container = document.querySelector ('#albums_container');
+const keywordsInput = document.querySelector ("#keywords_input");
+const propertySelect = document.querySelector ("#property_select");
+
+//-------------------------------------------------------------------//
+// EVENTS
+
 window.addEventListener ("load", function ()
 {
-    const keywordsInput = document.querySelector ("#keywords_input");
-    const propertySelect = document.querySelector ("#property_select");
+    albums = albums.reverse ();
 
     keywordsInput.addEventListener ("keyup", function ()
     {
@@ -15,16 +25,20 @@ window.addEventListener ("load", function ()
         }
         else
         {
+            albumHeader.innerHTML = "Latest entries:";
             listAll (albums);
         }
     });
 
+    albumHeader.innerHTML = "Latest entries:";
     listAll (albums);
 });
 
+//-------------------------------------------------------------------//
+// HELPER FUNCTIONS
+
 function listAll (albums)
 {
-    const container = document.querySelector ('#albums_container');
     container.innerHTML = "";
     albums.forEach ((album, index) => 
     {
@@ -49,5 +63,6 @@ function listAll (albums)
 function filterList (property, searchString)
 {
     let filtered = albums.filter (album => album[property].toString ().toLowerCase ().includes (searchString.toLowerCase ()));
+    albumHeader.innerHTML = (filtered.length >= 1 ? `${filtered.length} occurrence(s) found with '${searchString}'` : 'Nothing was found');
     listAll (filtered);
 }

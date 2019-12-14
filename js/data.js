@@ -1,6 +1,6 @@
 "use strict";
 
-const albums =
+let albums =
 [
     new Album ({
         name: "Seventh Star",
