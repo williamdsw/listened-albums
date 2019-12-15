@@ -178,4 +178,12 @@ let albums =
         cover: "https://upload.wikimedia.org/wikipedia/en/3/36/No_Heavy_Petting_album.jpg",
         spotifyLink: "https://open.spotify.com/album/3lu8Z9INHhbKLpS4LkJArz",
     }),
+    new Album ({
+        name: "Straight Between the Eyes",
+        artist: "Rainbow",
+        genre: "Hard Rock",
+        releaseYear: 1982,
+        cover: "https://upload.wikimedia.org/wikipedia/en/8/8a/Straight_between_the_eyes.jpg",
+        spotifyLink: "https://open.spotify.com/playlist/0QFpnE6PHJyczy8mQYVQdk",
+    }),
 ];
