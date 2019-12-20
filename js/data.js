@@ -186,4 +186,12 @@ let albums =
         cover: "https://upload.wikimedia.org/wikipedia/en/8/8a/Straight_between_the_eyes.jpg",
         spotifyLink: "https://open.spotify.com/playlist/0QFpnE6PHJyczy8mQYVQdk",
     }),
+    new Album ({
+        name: "Seed",
+        artist: "JBK",
+        genre: "Alternative",
+        releaseYear: 1994,
+        cover: "https://f4.bcbits.com/img/a0174366964_16.jpg",
+        spotifyLink: "https://jbkmusic.bandcamp.com/album/seed",
+    }),
 ];
