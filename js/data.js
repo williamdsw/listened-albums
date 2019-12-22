@@ -7,7 +7,7 @@ let albums =
         artist: "Black Sabbath",
         genre: "Heavy Metal",
         releaseYear: 1986,
-        cover: "https://upload.wikimedia.org/wikipedia/en/2/25/Black-Sabbath-seventh-star.jpg",
+        cover: "covers/black-sabbath--seventh-star.png",
         spotifyLink: "https://open.spotify.com/album/557z9zU5A2g5jhZBiu8obi",
     }),
     new Album ({
@@ -15,7 +15,7 @@ let albums =
         artist: "INXS",
         genre: "New Wave",
         releaseYear: 2011,
-        cover: "https://upload.wikimedia.org/wikipedia/en/2/2b/INXS_-_The_Very_Best.png",
+        cover: "covers/inxs--the-very-best.png",
         spotifyLink: "https://open.spotify.com/album/0ByciEsG5VvGzWOG7o3rAn",
     }),
     new Album ({
@@ -23,7 +23,7 @@ let albums =
         artist: "Robert Tepper",
         genre: "Rock",
         releaseYear: 1986,
-        cover: "https://upload.wikimedia.org/wikipedia/en/a/aa/Robert_Tepper_No_Easy_Way_Out_1986_Album_Cover.jpg",
+        cover: "covers/robert-tepper--no-easy-way-out.png",
         spotifyLink: "https://open.spotify.com/album/1hN5Xzuzfhqk2sIBtNZmP1",
     }),
     new Album ({
@@ -31,7 +31,7 @@ let albums =
         artist: "Nine Inch Nails",
         genre: "Industrial Rock",
         releaseYear: 1992,
-        cover: "https://upload.wikimedia.org/wikipedia/en/f/f0/Nine_Inch_Nails_-_Fixed.png",
+        cover: "covers/nine-inch-nails--fixed.png",
         spotifyLink: "https://open.spotify.com/album/6tmbCwAFWR5Qe9TaXjP8jN",
     }),
     new Album ({
@@ -39,7 +39,7 @@ let albums =
         artist: "Billy Idol",
         genre: "Dance-Rock",
         releaseYear: 1981,
-        cover: "https://upload.wikimedia.org/wikipedia/en/1/1d/BillyIdolDontStop.jpg",
+        cover: "covers/billy-idol--dont-stop.png",
         spotifyLink: "https://open.spotify.com/album/6UNswjupuKnxiPMnEAa9Hp",
     }),
     new Album ({
@@ -47,7 +47,7 @@ let albums =
         artist: "Mick Karn",
         genre: "Experimental Rock",
         releaseYear: 1986,
-        cover: "https://rovimusic.rovicorp.com/image.jpg?c=TtCUvUxs95KSLNd16Zz-PZhUoDg0hsvx4F4sL4oO-nA=&f=5",
+        cover: "covers/mick-karn--dreams-of-reason-produce-monsters.png",
         spotifyLink: "https://open.spotify.com/album/6dZ3jcyq6IIEdEpOS1rsDM",
     }),
     new Album ({
@@ -55,7 +55,7 @@ let albums =
         artist: "Queens of the Stone Age",
         genre: "Stoner Rock",
         releaseYear: 2002,
-        cover: "https://upload.wikimedia.org/wikipedia/en/0/01/Queens_of_the_Stone_Age_-_Songs_for_the_Deaf.png",
+        cover: "covers/queens-of-the-stone-age--songs-for-the-deaf.png",
         spotifyLink: "https://open.spotify.com/album/4w3NeXtywU398NYW4903rY",
     }),
     new Album ({
@@ -63,7 +63,7 @@ let albums =
         artist: "Billy Squier",
         genre: "Rock",
         releaseYear: 1981,
-        cover: "https://upload.wikimedia.org/wikipedia/en/8/83/Billy_Squier_-_Don%27t_Say_No.jpg",
+        cover: "covers/billy-squier--dont-say-no.png",
         spotifyLink: "https://open.spotify.com/album/6TwlLNU5Zd9qGuNgSLeWPt",
     }),
     new Album ({
@@ -71,7 +71,7 @@ let albums =
         artist: "Billy Squier",
         genre: "Rock",
         releaseYear: 1995,
-        cover: "https://rovimusic.rovicorp.com/image.jpg?c=0T6qDMFp68tgb6jrEZEzPA4Q1ghY8VaPylnm7PwcKNY=&f=5",
+        cover: "covers/billy-squier--16-strokes-the-best-of-billy-squier.png",
         spotifyLink: "https://open.spotify.com/album/6YtnoMLw5v2UhFTReAn7z1",
     }),
     new Album ({
@@ -79,7 +79,7 @@ let albums =
         artist: "Damn Yankees",
         genre: "Hard Rock",
         releaseYear: 1990,
-        cover: "https://upload.wikimedia.org/wikipedia/en/b/b1/DYDY.jpg",
+        cover: "covers/damn-yankees--damn-yankees.png",
         spotifyLink: "https://open.spotify.com/album/2GSZ2kruaBmA5hR9xngeBX",
     }),
     new Album ({
@@ -87,7 +87,7 @@ let albums =
         artist: "Mr. Big",
         genre: "Hard Rock",
         releaseYear: 1989,
-        cover: "https://upload.wikimedia.org/wikipedia/en/f/f0/Mr_Big_Self-Titled.jpg",
+        cover: "covers/mr-big--mr-big.png",
         spotifyLink: "https://open.spotify.com/album/18HPDet34B8LwgCfagDeZd",
     }),
     new Album ({
@@ -95,7 +95,7 @@ let albums =
         artist: "Mr. Big",
         genre: "Hard Rock",
         releaseYear: 1991,
-        cover: "https://upload.wikimedia.org/wikipedia/commons/2/2c/Mr._Big_-_Lean_Into_It.jpg",
+        cover: "covers/mr-big--lean-into-it.png",
         spotifyLink: "https://open.spotify.com/album/6CrjpyjlfjK95oHF6dvEnQ",
     }),
     new Album ({
@@ -103,7 +103,7 @@ let albums =
         artist: "Scorpions",
         genre: "Hard Rock",
         releaseYear: 1975,
-        cover: "https://upload.wikimedia.org/wikipedia/en/f/fc/In_Trance_%28Scorpions_album_-_cover_art%29.jpg",
+        cover: "covers/scorpions--in-trance.png",
         spotifyLink: "https://open.spotify.com/album/1IxCkGzmfbrod37MqDPUHm",
     }),
     new Album ({
@@ -111,7 +111,7 @@ let albums =
         artist: "Marilyn Manson",
         genre: "Heavy Metal",
         releaseYear: 2004,
-        cover: "https://upload.wikimedia.org/wikipedia/en/0/06/Marilyn_Manson_-_Lest_We_Forget.png",
+        cover: "covers/marilyn-manson--lest-we-forget-the-best-of.png",
         spotifyLink: "https://open.spotify.com/album/16iYefmYfh5RJg4XEi6rG9",
     }),
     new Album ({
@@ -119,7 +119,7 @@ let albums =
         artist: "Nine Inch Nails",
         genre: "Post-industrial",
         releaseYear: 1995,
-        cover: "https://upload.wikimedia.org/wikipedia/en/1/17/Further_down_the_spiral.jpg",
+        cover: "covers/nine-inch-nails--further-down-the-spiral.png",
         spotifyLink: "https://open.spotify.com/album/6v4pXGNQv0Xc81H3iYdybc",
     }),
     new Album ({
@@ -127,7 +127,7 @@ let albums =
         artist: "W.A.S.P",
         genre: "Heavy Metal",
         releaseYear: 1989,
-        cover: "https://upload.wikimedia.org/wikipedia/en/d/db/The_Headless_Children_%28W.A.S.P._album_-_cover_art%29.jpg",
+        cover: "covers/wasp--the-headless-children.png",
         spotifyLink: "https://open.spotify.com/album/73tznjCvNu9tDQW5jcrglq",
     }),
     new Album ({
@@ -135,7 +135,7 @@ let albums =
         artist: "W.A.S.P",
         genre: "Heavy Metal",
         releaseYear: 1992,
-        cover: "https://upload.wikimedia.org/wikipedia/en/7/75/Waspcrimsonidol.jpg",
+        cover: "covers/wasp--the-crimson-idol.png",
         spotifyLink: "https://open.spotify.com/album/1qIXNs2KIv1DfO01lwoUfz",
     }),
     new Album ({
@@ -143,7 +143,7 @@ let albums =
         artist: "Rush",
         genre: "Progressive Rock",
         releaseYear: 1976,
-        cover: "https://upload.wikimedia.org/wikipedia/en/c/c9/Rush_2112.jpg",
+        cover: "covers/rush--2112.png",
         spotifyLink: "https://open.spotify.com/album/5g5aKkI0ExfU4kDvADP6JK",
     }),
     new Album ({
@@ -151,7 +151,7 @@ let albums =
         artist: "Ghost",
         genre: "Psychedelic Rock",
         releaseYear: 2019,
-        cover: "https://upload.wikimedia.org/wikipedia/en/a/af/Ghost_-_Seven_Inches_of_Satanic_Panic.jpg",
+        cover: "covers/ghost--seven-inches-of-satanic-panic.png",
         spotifyLink: "https://open.spotify.com/album/6eOWfFjfBPRsAW0ZS4sbaF",
     }),
     new Album ({
@@ -159,7 +159,7 @@ let albums =
         artist: "Nailbomb",
         genre: "Industrial Thrash Metal",
         releaseYear: 1994,
-        cover: "https://upload.wikimedia.org/wikipedia/en/c/ce/Point_Blank_%28Nailbomb_album%29_coverart.jpg",
+        cover: "covers/nailbomb--point-blank.png",
         spotifyLink: "https://open.spotify.com/album/0CcgwAkqiglrLu6lH5lrSU",
     }),
     new Album ({
@@ -167,7 +167,7 @@ let albums =
         artist: "The Dolphin Brothers",
         genre: "New Wave",
         releaseYear: 1987,
-        cover: "https://rovimusic.rovicorp.com/image.jpg?c=SYTDaVWwVh7R4X57_uPJWhyhM-OFI8zG4l-qVpXXB1I=&f=5",
+        cover: "covers/the-dolphin-brothers--catch-the-fall.png",
         spotifyLink: "https://open.spotify.com/album/2bwRV1MkfbD4rEcNNQjGRA",
     }),
     new Album ({
@@ -175,7 +175,7 @@ let albums =
         artist: "UFO",
         genre: "Hard Rock",
         releaseYear: 1976,
-        cover: "https://upload.wikimedia.org/wikipedia/en/3/36/No_Heavy_Petting_album.jpg",
+        cover: "covers/ufo--no-heavy-petting.png",
         spotifyLink: "https://open.spotify.com/album/3lu8Z9INHhbKLpS4LkJArz",
     }),
     new Album ({
@@ -183,7 +183,7 @@ let albums =
         artist: "Rainbow",
         genre: "Hard Rock",
         releaseYear: 1982,
-        cover: "https://upload.wikimedia.org/wikipedia/en/8/8a/Straight_between_the_eyes.jpg",
+        cover: "covers/rainbow--straight-between-the-eyes.png",
         spotifyLink: "https://open.spotify.com/playlist/0QFpnE6PHJyczy8mQYVQdk",
     }),
     new Album ({
@@ -191,7 +191,7 @@ let albums =
         artist: "JBK",
         genre: "Alternative",
         releaseYear: 1994,
-        cover: "https://f4.bcbits.com/img/a0174366964_16.jpg",
+        cover: "covers/jbk--seed.png",
         spotifyLink: "https://jbkmusic.bandcamp.com/album/seed",
     }),
     new Album ({
@@ -199,7 +199,7 @@ let albums =
         artist: "Manic Street Preachers",
         genre: "Alternative Rock",
         releaseYear: 1992,
-        cover: "https://upload.wikimedia.org/wikipedia/en/3/37/Generation_Terrorists.jpg",
+        cover: "covers/manic-street-preachers--generation-terrorists.png",
         spotifyLink: "https://open.spotify.com/album/5ZhZUAD6C0CkjXPsuDggmA",
     }),
 ];
