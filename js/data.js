@@ -194,4 +194,12 @@ let albums =
         cover: "https://f4.bcbits.com/img/a0174366964_16.jpg",
         spotifyLink: "https://jbkmusic.bandcamp.com/album/seed",
     }),
+    new Album ({
+        name: "Generation Terrorists",
+        artist: "Manic Street Preachers",
+        genre: "Alternative Rock",
+        releaseYear: 1992,
+        cover: "https://upload.wikimedia.org/wikipedia/en/3/37/Generation_Terrorists.jpg",
+        spotifyLink: "https://open.spotify.com/album/5ZhZUAD6C0CkjXPsuDggmA",
+    }),
 ];
