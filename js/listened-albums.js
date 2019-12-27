@@ -17,17 +17,12 @@ window.addEventListener ("load", function ()
 
     keywordsInput.addEventListener ("keyup", function ()
     {
-        if (this.value != "")
-        {
-            let property = propertySelect[propertySelect.selectedIndex].value;
-            let searchString = this.value;
-            filterList (property, searchString);
-        }
-        else
-        {
-            albumHeader.innerHTML = "Latest entries:";
-            listAll (albums);
-        }
+        triggerSearch (this.value);
+    });
+
+    propertySelect.addEventListener ("change", function ()
+    {
+        triggerSearch (keywordsInput.value);
     });
 
     albumHeader.innerHTML = "Latest entries:";
@@ -65,4 +60,19 @@ function filterList (property, searchString)
     let filtered = albums.filter (album => album[property].toString ().toLowerCase ().includes (searchString.toLowerCase ()));
     albumHeader.innerHTML = (filtered.length >= 1 ? `${filtered.length} occurrence(s) found with '${searchString}'` : 'Nothing was found');
     listAll (filtered);
+}
+
+function triggerSearch (value)
+{
+    if (value != "")
+    {
+        let property = propertySelect[propertySelect.selectedIndex].value;
+        let searchString = value;
+        filterList (property, searchString);
+    }
+    else
+    {
+        albumHeader.innerHTML = "Latest entries:";
+        listAll (albums);
+    }
 }
