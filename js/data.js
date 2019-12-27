@@ -202,4 +202,12 @@ let albums =
         cover: "covers/manic-street-preachers--generation-terrorists.png",
         spotifyLink: "https://open.spotify.com/album/5ZhZUAD6C0CkjXPsuDggmA",
     }),
+    new Album ({
+        name: "High Voltage",
+        artist: "AC/DC",
+        genre: "Hard Rock",
+        releaseYear: 1976,
+        cover: "covers/acdc--high-voltage.png",
+        spotifyLink: "https://open.spotify.com/album/19AUoKWRAaQYrggVvdQnqq",
+    }),
 ];
