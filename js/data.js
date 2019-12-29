@@ -210,4 +210,12 @@ let albums =
         cover: "covers/acdc--high-voltage.png",
         spotifyLink: "https://open.spotify.com/album/19AUoKWRAaQYrggVvdQnqq",
     }),
+    new Album ({
+        name: "Thirteenth Step",
+        artist: "A Perfect Circle",
+        genre: "Alternative Metal",
+        releaseYear: 2003,
+        cover: "covers/a-perfect-circle--thirteenth-step.png",
+        spotifyLink: "https://open.spotify.com/album/49K6hYDEr5M3GxIBBxlPf9",
+    }),
 ];
