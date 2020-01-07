@@ -218,4 +218,12 @@ let albums =
         cover: "covers/a-perfect-circle--thirteenth-step.png",
         spotifyLink: "https://open.spotify.com/album/49K6hYDEr5M3GxIBBxlPf9",
     }),
+    new Album ({
+        name: "Homework",
+        artist: "Daft Punk",
+        genre: "House",
+        releaseYear: 1997,
+        cover: "covers/daft-punk--homework.png",
+        spotifyLink: "https://open.spotify.com/album/5uRdvUR7xCnHmUW8n64n9y",
+    }),
 ];
