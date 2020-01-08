@@ -226,4 +226,12 @@ let albums =
         cover: "covers/daft-punk--homework.png",
         spotifyLink: "https://open.spotify.com/album/5uRdvUR7xCnHmUW8n64n9y",
     }),
+    new Album ({
+        name: "Discovery",
+        artist: "Daft Punk",
+        genre: "Disco",
+        releaseYear: 2001,
+        cover: "covers/daft-punk--discovery.png",
+        spotifyLink: "https://open.spotify.com/album/2noRn2Aes5aoNVsU6iWThc",
+    }),
 ];
