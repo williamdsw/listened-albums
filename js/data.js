@@ -234,4 +234,12 @@ let albums =
         cover: "covers/daft-punk--discovery.png",
         spotifyLink: "https://open.spotify.com/album/2noRn2Aes5aoNVsU6iWThc",
     }),
+    new Album ({
+        name: "Human After All",
+        artist: "Daft Punk",
+        genre: "Dance-rock",
+        releaseYear: 2005,
+        cover: "covers/daft-punk--human-after-all.png",
+        spotifyLink: "https://open.spotify.com/album/2T7DdrOvsqOqU9bGTkjBYu",
+    }),
 ];
