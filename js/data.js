@@ -242,4 +242,12 @@ let albums =
         cover: "covers/daft-punk--human-after-all.png",
         spotifyLink: "https://open.spotify.com/album/2T7DdrOvsqOqU9bGTkjBYu",
     }),
+    new Album ({
+        name: "Random Access Memories",
+        artist: "Daft Punk",
+        genre: "Disco",
+        releaseYear: 2013,
+        cover: "covers/daft-punk--random-access-memories.png",
+        spotifyLink: "https://open.spotify.com/album/4m2880jivSbbyEGAKfITCa",
+    }),
 ];
