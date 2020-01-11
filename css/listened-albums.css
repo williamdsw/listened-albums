@@ -1,5 +1,13 @@
 body {background-color: #1e2c4f; }
 
+
+
+/* accordion */
+.accordion { margin: 10px; }
+.card-header { background-color: cornsilk; }
+.card-header h1 { color: darkslateblue; text-shadow: 2px 2px 3px #41a8b2; }
+.card-content { background-color: honeydew; }
+
 /* album */
 #albums_header { color: white; text-shadow: 2px 2px purple; }
 .album { color: white; text-shadow: 2px 1px red; }
@@ -16,6 +24,7 @@ body {background-color: #1e2c4f; }
   position: relative;
   text-align: center;
   cursor: default;
+  border: 2px dotted rgba(0, 0, 0, 0.25);
 }
 
 .hover-effect img
@@ -51,3 +60,4 @@ body {background-color: #1e2c4f; }
 
 /* bootstrap ... */
 .form-group { margin: auto; }
+.navbar-brand { color: white !important; text-transform: capitalize; }
