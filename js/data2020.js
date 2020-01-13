@@ -37,5 +37,13 @@ let albums2020 =
             cover: "covers/daft-punk--random-access-memories.png",
             spotifyLink: "https://open.spotify.com/album/4m2880jivSbbyEGAKfITCa",
         }),
+        new Album ({
+            name: "Mob Rules",
+            artist: "Black Sabbath",
+            genre: "Heavy Metal",
+            releaseYear: 1981,
+            cover: "covers/black-sabbath--mob-rules.png",
+            spotifyLink: "https://open.spotify.com/album/2iaECLD2YLSEOkSfi7BRaC",
+        }),
     ]
 }
