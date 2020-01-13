@@ -53,5 +53,13 @@ let albums2020 =
             cover: "covers/dio--holy-diver.png",
             spotifyLink: "https://open.spotify.com/album/1QJmLRcuIMMjZ49elafR3K",
         }),
+        new Album ({
+            name: "Live at The Brixton Academy",
+            artist: "Faith No More",
+            genre: "Alternative Metal",
+            releaseYear: 1991,
+            cover: "covers/faith-no-more--live-at-the-brixton-academy.png",
+            spotifyLink: "https://open.spotify.com/album/30aiwTsoJlbCIDXqDT947h",
+        }),
     ]
 }
