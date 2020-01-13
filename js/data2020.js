@@ -45,5 +45,13 @@ let albums2020 =
             cover: "covers/black-sabbath--mob-rules.png",
             spotifyLink: "https://open.spotify.com/album/2iaECLD2YLSEOkSfi7BRaC",
         }),
+        new Album ({
+            name: "Holy Diver",
+            artist: "Dio",
+            genre: "Heavy Metal",
+            releaseYear: 1983,
+            cover: "covers/dio--holy-diver.png",
+            spotifyLink: "https://open.spotify.com/album/1QJmLRcuIMMjZ49elafR3K",
+        }),
     ]
 }
