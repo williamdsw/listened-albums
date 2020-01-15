@@ -61,5 +61,13 @@ let albums2020 =
             cover: "covers/faith-no-more--live-at-the-brixton-academy.png",
             spotifyLink: "https://open.spotify.com/album/30aiwTsoJlbCIDXqDT947h",
         }),
+        new Album ({
+            name: "Bad",
+            artist: "Michael Jackson",
+            genre: "Pop",
+            releaseYear: 1987,
+            cover: "covers/michael-jackson--bad.png",
+            spotifyLink: "https://open.spotify.com/album/3Us57CjssWnHjTUIXBuIeH",
+        }),
     ]
 }
