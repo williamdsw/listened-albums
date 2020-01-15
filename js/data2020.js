@@ -69,5 +69,13 @@ let albums2020 =
             cover: "covers/michael-jackson--bad.png",
             spotifyLink: "https://open.spotify.com/album/3Us57CjssWnHjTUIXBuIeH",
         }),
+        new Album ({
+            name: "Dangerous",
+            artist: "Michael Jackson",
+            genre: "New Jack Swing",
+            releaseYear: 1991,
+            cover: "covers/michael-jackson--dangerous.png",
+            spotifyLink: "https://open.spotify.com/album/0oX4SealMgNXrvRDhqqOKg",
+        }),
     ]
 }
