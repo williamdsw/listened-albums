@@ -93,5 +93,13 @@ let albums2020 =
             cover: "covers/ultravox--lament.png",
             spotifyLink: "https://open.spotify.com/album/4gwKE70npgEOk9sFd9aTYt",
         }),
+        new Album ({
+            name: "Burn",
+            artist: "Deep Purple",
+            genre: "Hard Rock",
+            releaseYear: 1974,
+            cover: "covers/deep-purple--burn.png",
+            spotifyLink: "https://open.spotify.com/album/3wR7UC2ij2dx0TbtiMP4J9",
+        }),
     ]
 }
