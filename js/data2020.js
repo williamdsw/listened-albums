@@ -85,5 +85,13 @@ let albums2020 =
             cover: "covers/david-bowie--scary-monsters-and-super-creeps.png",
             spotifyLink: "https://open.spotify.com/album/5fxvWHvIDPIALfTfRiwyB0",
         }),
+        new Album ({
+            name: "Lament",
+            artist: "Ultravox",
+            genre: "New Wave",
+            releaseYear: 1984,
+            cover: "covers/ultravox--lament.png",
+            spotifyLink: "https://open.spotify.com/album/4gwKE70npgEOk9sFd9aTYt",
+        }),
     ]
 }
