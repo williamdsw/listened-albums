@@ -77,5 +77,13 @@ let albums2020 =
             cover: "covers/michael-jackson--dangerous.png",
             spotifyLink: "https://open.spotify.com/album/0oX4SealMgNXrvRDhqqOKg",
         }),
+        new Album ({
+            name: "Scary Monsters (and Super Creeps)",
+            artist: "David Bowie",
+            genre: "Art Rock",
+            releaseYear: 1980,
+            cover: "covers/david-bowie--scary-monsters-and-super-creeps.png",
+            spotifyLink: "https://open.spotify.com/album/5fxvWHvIDPIALfTfRiwyB0",
+        }),
     ]
 }
