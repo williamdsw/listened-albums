@@ -11,7 +11,7 @@ let albums2019 =
             genre: "Heavy Metal",
             releaseYear: 1986,
             cover: "covers/black-sabbath--seventh-star.png",
-            spotifyLink: "https://open.spotify.com/album/557z9zU5A2g5jhZBiu8obi",
+            streamLink: "https://open.spotify.com/album/557z9zU5A2g5jhZBiu8obi",
         }),
         new Album ({
             name: "The Very Best",
@@ -19,7 +19,7 @@ let albums2019 =
             genre: "New Wave",
             releaseYear: 2011,
             cover: "covers/inxs--the-very-best.png",
-            spotifyLink: "https://open.spotify.com/album/0ByciEsG5VvGzWOG7o3rAn",
+            streamLink: "https://open.spotify.com/album/0ByciEsG5VvGzWOG7o3rAn",
         }),
         new Album ({
             name: "No Easy Way Out",
@@ -27,7 +27,7 @@ let albums2019 =
             genre: "Rock",
             releaseYear: 1986,
             cover: "covers/robert-tepper--no-easy-way-out.png",
-            spotifyLink: "https://open.spotify.com/album/1hN5Xzuzfhqk2sIBtNZmP1",
+            streamLink: "https://open.spotify.com/album/1hN5Xzuzfhqk2sIBtNZmP1",
         }),
         new Album ({
             name: "Fixed",
@@ -35,7 +35,7 @@ let albums2019 =
             genre: "Industrial Rock",
             releaseYear: 1992,
             cover: "covers/nine-inch-nails--fixed.png",
-            spotifyLink: "https://open.spotify.com/album/6tmbCwAFWR5Qe9TaXjP8jN",
+            streamLink: "https://open.spotify.com/album/6tmbCwAFWR5Qe9TaXjP8jN",
         }),
         new Album ({
             name: "Don't Stop",
@@ -43,7 +43,7 @@ let albums2019 =
             genre: "Dance-Rock",
             releaseYear: 1981,
             cover: "covers/billy-idol--dont-stop.png",
-            spotifyLink: "https://open.spotify.com/album/6UNswjupuKnxiPMnEAa9Hp",
+            streamLink: "https://open.spotify.com/album/6UNswjupuKnxiPMnEAa9Hp",
         }),
         new Album ({
             name: "Dreams of Reason Produce Monsters",
@@ -51,7 +51,7 @@ let albums2019 =
             genre: "Experimental Rock",
             releaseYear: 1986,
             cover: "covers/mick-karn--dreams-of-reason-produce-monsters.png",
-            spotifyLink: "https://open.spotify.com/album/6dZ3jcyq6IIEdEpOS1rsDM",
+            streamLink: "https://open.spotify.com/album/6dZ3jcyq6IIEdEpOS1rsDM",
         }),
         new Album ({
             name: "Songs for the Deaf",
@@ -59,7 +59,7 @@ let albums2019 =
             genre: "Stoner Rock",
             releaseYear: 2002,
             cover: "covers/queens-of-the-stone-age--songs-for-the-deaf.png",
-            spotifyLink: "https://open.spotify.com/album/4w3NeXtywU398NYW4903rY",
+            streamLink: "https://open.spotify.com/album/4w3NeXtywU398NYW4903rY",
         }),
         new Album ({
             name: "Don't Say No",
@@ -67,7 +67,7 @@ let albums2019 =
             genre: "Rock",
             releaseYear: 1981,
             cover: "covers/billy-squier--dont-say-no.png",
-            spotifyLink: "https://open.spotify.com/album/6TwlLNU5Zd9qGuNgSLeWPt",
+            streamLink: "https://open.spotify.com/album/6TwlLNU5Zd9qGuNgSLeWPt",
         }),
         new Album ({
             name: "16 Strokes: The Best of Billy Squier",
@@ -75,7 +75,7 @@ let albums2019 =
             genre: "Rock",
             releaseYear: 1995,
             cover: "covers/billy-squier--16-strokes-the-best-of-billy-squier.png",
-            spotifyLink: "https://open.spotify.com/album/6YtnoMLw5v2UhFTReAn7z1",
+            streamLink: "https://open.spotify.com/album/6YtnoMLw5v2UhFTReAn7z1",
         }),
         new Album ({
             name: "Damn Yankees",
@@ -83,7 +83,7 @@ let albums2019 =
             genre: "Hard Rock",
             releaseYear: 1990,
             cover: "covers/damn-yankees--damn-yankees.png",
-            spotifyLink: "https://open.spotify.com/album/2GSZ2kruaBmA5hR9xngeBX",
+            streamLink: "https://open.spotify.com/album/2GSZ2kruaBmA5hR9xngeBX",
         }),
         new Album ({
             name: "Mr. Big",
@@ -91,7 +91,7 @@ let albums2019 =
             genre: "Hard Rock",
             releaseYear: 1989,
             cover: "covers/mr-big--mr-big.png",
-            spotifyLink: "https://open.spotify.com/album/18HPDet34B8LwgCfagDeZd",
+            streamLink: "https://open.spotify.com/album/18HPDet34B8LwgCfagDeZd",
         }),
         new Album ({
             name: "Lean into It",
@@ -99,7 +99,7 @@ let albums2019 =
             genre: "Hard Rock",
             releaseYear: 1991,
             cover: "covers/mr-big--lean-into-it.png",
-            spotifyLink: "https://open.spotify.com/album/6CrjpyjlfjK95oHF6dvEnQ",
+            streamLink: "https://open.spotify.com/album/6CrjpyjlfjK95oHF6dvEnQ",
         }),
         new Album ({
             name: "In Trance",
@@ -107,7 +107,7 @@ let albums2019 =
             genre: "Hard Rock",
             releaseYear: 1975,
             cover: "covers/scorpions--in-trance.png",
-            spotifyLink: "https://open.spotify.com/album/1IxCkGzmfbrod37MqDPUHm",
+            streamLink: "https://open.spotify.com/album/1IxCkGzmfbrod37MqDPUHm",
         }),
         new Album ({
             name: "Lest We Forget (The Best Of)",
@@ -115,7 +115,7 @@ let albums2019 =
             genre: "Heavy Metal",
             releaseYear: 2004,
             cover: "covers/marilyn-manson--lest-we-forget-the-best-of.png",
-            spotifyLink: "https://open.spotify.com/album/16iYefmYfh5RJg4XEi6rG9",
+            streamLink: "https://open.spotify.com/album/16iYefmYfh5RJg4XEi6rG9",
         }),
         new Album ({
             name: "Further Down the Spiral",
@@ -123,7 +123,7 @@ let albums2019 =
             genre: "Post-industrial",
             releaseYear: 1995,
             cover: "covers/nine-inch-nails--further-down-the-spiral.png",
-            spotifyLink: "https://open.spotify.com/album/6v4pXGNQv0Xc81H3iYdybc",
+            streamLink: "https://open.spotify.com/album/6v4pXGNQv0Xc81H3iYdybc",
         }),
         new Album ({
             name: "The Headless Children",
@@ -131,7 +131,7 @@ let albums2019 =
             genre: "Heavy Metal",
             releaseYear: 1989,
             cover: "covers/wasp--the-headless-children.png",
-            spotifyLink: "https://open.spotify.com/album/73tznjCvNu9tDQW5jcrglq",
+            streamLink: "https://open.spotify.com/album/73tznjCvNu9tDQW5jcrglq",
         }),
         new Album ({
             name: "The Crimson Idol",
@@ -139,7 +139,7 @@ let albums2019 =
             genre: "Heavy Metal",
             releaseYear: 1992,
             cover: "covers/wasp--the-crimson-idol.png",
-            spotifyLink: "https://open.spotify.com/album/1qIXNs2KIv1DfO01lwoUfz",
+            streamLink: "https://open.spotify.com/album/1qIXNs2KIv1DfO01lwoUfz",
         }),
         new Album ({
             name: "2112",
@@ -147,7 +147,7 @@ let albums2019 =
             genre: "Progressive Rock",
             releaseYear: 1976,
             cover: "covers/rush--2112.png",
-            spotifyLink: "https://open.spotify.com/album/5g5aKkI0ExfU4kDvADP6JK",
+            streamLink: "https://open.spotify.com/album/5g5aKkI0ExfU4kDvADP6JK",
         }),
         new Album ({
             name: "Seven Inches of Satanic Panic",
@@ -155,7 +155,7 @@ let albums2019 =
             genre: "Psychedelic Rock",
             releaseYear: 2019,
             cover: "covers/ghost--seven-inches-of-satanic-panic.png",
-            spotifyLink: "https://open.spotify.com/album/6eOWfFjfBPRsAW0ZS4sbaF",
+            streamLink: "https://open.spotify.com/album/6eOWfFjfBPRsAW0ZS4sbaF",
         }),
         new Album ({
             name: "Point Blank",
@@ -163,7 +163,7 @@ let albums2019 =
             genre: "Industrial Thrash Metal",
             releaseYear: 1994,
             cover: "covers/nailbomb--point-blank.png",
-            spotifyLink: "https://open.spotify.com/album/0CcgwAkqiglrLu6lH5lrSU",
+            streamLink: "https://open.spotify.com/album/0CcgwAkqiglrLu6lH5lrSU",
         }),
         new Album ({
             name: "Catch the Fall",
@@ -171,7 +171,7 @@ let albums2019 =
             genre: "New Wave",
             releaseYear: 1987,
             cover: "covers/the-dolphin-brothers--catch-the-fall.png",
-            spotifyLink: "https://open.spotify.com/album/2bwRV1MkfbD4rEcNNQjGRA",
+            streamLink: "https://open.spotify.com/album/2bwRV1MkfbD4rEcNNQjGRA",
         }),
         new Album ({
             name: "No Heavy Petting",
@@ -179,7 +179,7 @@ let albums2019 =
             genre: "Hard Rock",
             releaseYear: 1976,
             cover: "covers/ufo--no-heavy-petting.png",
-            spotifyLink: "https://open.spotify.com/album/3lu8Z9INHhbKLpS4LkJArz",
+            streamLink: "https://open.spotify.com/album/3lu8Z9INHhbKLpS4LkJArz",
         }),
         new Album ({
             name: "Straight Between the Eyes",
@@ -187,7 +187,7 @@ let albums2019 =
             genre: "Hard Rock",
             releaseYear: 1982,
             cover: "covers/rainbow--straight-between-the-eyes.png",
-            spotifyLink: "https://open.spotify.com/playlist/0QFpnE6PHJyczy8mQYVQdk",
+            streamLink: "https://open.spotify.com/playlist/0QFpnE6PHJyczy8mQYVQdk",
         }),
         new Album ({
             name: "Seed",
@@ -195,7 +195,7 @@ let albums2019 =
             genre: "Alternative",
             releaseYear: 1994,
             cover: "covers/jbk--seed.png",
-            spotifyLink: "https://jbkmusic.bandcamp.com/album/seed",
+            streamLink: "https://jbkmusic.bandcamp.com/album/seed",
         }),
         new Album ({
             name: "Generation Terrorists",
@@ -203,7 +203,7 @@ let albums2019 =
             genre: "Alternative Rock",
             releaseYear: 1992,
             cover: "covers/manic-street-preachers--generation-terrorists.png",
-            spotifyLink: "https://open.spotify.com/album/5ZhZUAD6C0CkjXPsuDggmA",
+            streamLink: "https://open.spotify.com/album/5ZhZUAD6C0CkjXPsuDggmA",
         }),
         new Album ({
             name: "High Voltage",
@@ -211,7 +211,7 @@ let albums2019 =
             genre: "Hard Rock",
             releaseYear: 1976,
             cover: "covers/acdc--high-voltage.png",
-            spotifyLink: "https://open.spotify.com/album/19AUoKWRAaQYrggVvdQnqq",
+            streamLink: "https://open.spotify.com/album/19AUoKWRAaQYrggVvdQnqq",
         }),
         new Album ({
             name: "Thirteenth Step",
@@ -219,7 +219,7 @@ let albums2019 =
             genre: "Alternative Metal",
             releaseYear: 2003,
             cover: "covers/a-perfect-circle--thirteenth-step.png",
-            spotifyLink: "https://open.spotify.com/album/49K6hYDEr5M3GxIBBxlPf9",
+            streamLink: "https://open.spotify.com/album/49K6hYDEr5M3GxIBBxlPf9",
         }),
     ]
 };

@@ -2,13 +2,13 @@
 
 class Album
 {
-    constructor ({ name, artist, releaseYear, genre, cover, spotifyLink })
+    constructor ({ name, artist, releaseYear, genre, cover, streamLink })
     {
         this.name = name;
         this.artist = artist;
         this.releaseYear = releaseYear;
         this.genre = genre;
         this.cover = cover;
-        this.spotifyLink = spotifyLink;
+        this.streamLink = streamLink;
     }
 }

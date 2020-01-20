@@ -11,7 +11,7 @@ let albums2020 =
             genre: "House",
             releaseYear: 1997,
             cover: "covers/daft-punk--homework.png",
-            spotifyLink: "https://open.spotify.com/album/5uRdvUR7xCnHmUW8n64n9y",
+            streamLink: "https://open.spotify.com/album/5uRdvUR7xCnHmUW8n64n9y",
         }),
         new Album ({
             name: "Discovery",
@@ -19,7 +19,7 @@ let albums2020 =
             genre: "Disco",
             releaseYear: 2001,
             cover: "covers/daft-punk--discovery.png",
-            spotifyLink: "https://open.spotify.com/album/2noRn2Aes5aoNVsU6iWThc",
+            streamLink: "https://open.spotify.com/album/2noRn2Aes5aoNVsU6iWThc",
         }),
         new Album ({
             name: "Human After All",
@@ -27,7 +27,7 @@ let albums2020 =
             genre: "Dance-rock",
             releaseYear: 2005,
             cover: "covers/daft-punk--human-after-all.png",
-            spotifyLink: "https://open.spotify.com/album/2T7DdrOvsqOqU9bGTkjBYu",
+            streamLink: "https://open.spotify.com/album/2T7DdrOvsqOqU9bGTkjBYu",
         }),
         new Album ({
             name: "Random Access Memories",
@@ -35,7 +35,7 @@ let albums2020 =
             genre: "Disco",
             releaseYear: 2013,
             cover: "covers/daft-punk--random-access-memories.png",
-            spotifyLink: "https://open.spotify.com/album/4m2880jivSbbyEGAKfITCa",
+            streamLink: "https://open.spotify.com/album/4m2880jivSbbyEGAKfITCa",
         }),
         new Album ({
             name: "Mob Rules",
@@ -43,7 +43,7 @@ let albums2020 =
             genre: "Heavy Metal",
             releaseYear: 1981,
             cover: "covers/black-sabbath--mob-rules.png",
-            spotifyLink: "https://open.spotify.com/album/2iaECLD2YLSEOkSfi7BRaC",
+            streamLink: "https://open.spotify.com/album/2iaECLD2YLSEOkSfi7BRaC",
         }),
         new Album ({
             name: "Holy Diver",
@@ -51,7 +51,7 @@ let albums2020 =
             genre: "Heavy Metal",
             releaseYear: 1983,
             cover: "covers/dio--holy-diver.png",
-            spotifyLink: "https://open.spotify.com/album/1QJmLRcuIMMjZ49elafR3K",
+            streamLink: "https://open.spotify.com/album/1QJmLRcuIMMjZ49elafR3K",
         }),
         new Album ({
             name: "Live at The Brixton Academy",
@@ -59,7 +59,7 @@ let albums2020 =
             genre: "Alternative Metal",
             releaseYear: 1991,
             cover: "covers/faith-no-more--live-at-the-brixton-academy.png",
-            spotifyLink: "https://open.spotify.com/album/30aiwTsoJlbCIDXqDT947h",
+            streamLink: "https://open.spotify.com/album/30aiwTsoJlbCIDXqDT947h",
         }),
         new Album ({
             name: "Bad",
@@ -67,7 +67,7 @@ let albums2020 =
             genre: "Pop",
             releaseYear: 1987,
             cover: "covers/michael-jackson--bad.png",
-            spotifyLink: "https://open.spotify.com/album/3Us57CjssWnHjTUIXBuIeH",
+            streamLink: "https://open.spotify.com/album/3Us57CjssWnHjTUIXBuIeH",
         }),
         new Album ({
             name: "Dangerous",
@@ -75,7 +75,7 @@ let albums2020 =
             genre: "New Jack Swing",
             releaseYear: 1991,
             cover: "covers/michael-jackson--dangerous.png",
-            spotifyLink: "https://open.spotify.com/album/0oX4SealMgNXrvRDhqqOKg",
+            streamLink: "https://open.spotify.com/album/0oX4SealMgNXrvRDhqqOKg",
         }),
         new Album ({
             name: "Scary Monsters (and Super Creeps)",
@@ -83,7 +83,7 @@ let albums2020 =
             genre: "Art Rock",
             releaseYear: 1980,
             cover: "covers/david-bowie--scary-monsters-and-super-creeps.png",
-            spotifyLink: "https://open.spotify.com/album/5fxvWHvIDPIALfTfRiwyB0",
+            streamLink: "https://open.spotify.com/album/5fxvWHvIDPIALfTfRiwyB0",
         }),
         new Album ({
             name: "Lament",
@@ -91,7 +91,7 @@ let albums2020 =
             genre: "New Wave",
             releaseYear: 1984,
             cover: "covers/ultravox--lament.png",
-            spotifyLink: "https://open.spotify.com/album/4gwKE70npgEOk9sFd9aTYt",
+            streamLink: "https://open.spotify.com/album/4gwKE70npgEOk9sFd9aTYt",
         }),
         new Album ({
             name: "Burn",
@@ -99,7 +99,15 @@ let albums2020 =
             genre: "Hard Rock",
             releaseYear: 1974,
             cover: "covers/deep-purple--burn.png",
-            spotifyLink: "https://open.spotify.com/album/3wR7UC2ij2dx0TbtiMP4J9",
+            streamLink: "https://open.spotify.com/album/3wR7UC2ij2dx0TbtiMP4J9",
+        }),
+        new Album ({
+            name: "Star Fleet Project",
+            artist: "Brian May",
+            genre: "Hard Rock",
+            releaseYear: 1983,
+            cover: "covers/brian-may--star-fleet-project.png",
+            streamLink: "https://www.youtube.com/watch?v=Zux1-a2rRHc",
         }),
     ]
 }

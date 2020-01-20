@@ -69,7 +69,7 @@ function listAll (albums, toShow)
                         <h4 class="text-center"> ${album.artist} </h4>
                         <h6 class="text-center">Released: ${album.releaseYear} </h6>
                         <h6 class="text-center"> ${album.genre} </h6>
-                        <a class="listen" href="${album.spotifyLink}" target="_blank">Listen</a>
+                        <a class="listen" href="${album.streamLink}" target="_blank">Listen</a>
                     </div>
                 </div>
             </div>
