@@ -109,5 +109,13 @@ let albums2020 =
             cover: "covers/brian-may--star-fleet-project.png",
             streamLink: "https://www.youtube.com/watch?v=Zux1-a2rRHc",
         }),
+        new Album ({
+            name: "David Bowie (1969)",
+            artist: "David Bowie",
+            genre: "Folk Rock",
+            releaseYear: 1969,
+            cover: "covers/david-bowie--david-bowie.png",
+            streamLink: "https://open.spotify.com/album/1ay9Z4R5ZYI2TY7WiDhNYQ",
+        }),
     ]
 }
