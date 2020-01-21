@@ -117,5 +117,13 @@ let albums2020 =
             cover: "covers/david-bowie--david-bowie.png",
             streamLink: "https://open.spotify.com/album/1ay9Z4R5ZYI2TY7WiDhNYQ",
         }),
+        new Album ({
+            name: "The Album",
+            artist: "Haddaway",
+            genre: "Eurodance",
+            releaseYear: 1993,
+            cover: "covers/haddaway--the-album.png",
+            streamLink: "https://open.spotify.com/album/1LAx7yCVbGwskdnGDof8SC",
+        }),
     ]
 }
