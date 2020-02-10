@@ -125,5 +125,13 @@ let albums2020 =
             cover: "covers/haddaway--the-album.png",
             streamLink: "https://open.spotify.com/album/1LAx7yCVbGwskdnGDof8SC",
         }),
+        new Album ({
+            name: "Scoundrel Days",
+            artist: "A-ha",
+            genre: "Synth-pop",
+            releaseYear: 1986,
+            cover: "covers/a-ha--scoundrel-days.png",
+            streamLink: "https://open.spotify.com/album/0Or3lqjBWQAfmyigntPSL6",
+        }),
     ]
 }
