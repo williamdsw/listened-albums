@@ -133,5 +133,13 @@ let albums2020 =
             cover: "covers/a-ha--scoundrel-days.png",
             streamLink: "https://open.spotify.com/album/0Or3lqjBWQAfmyigntPSL6",
         }),
+        new Album ({
+            name: "The Top",
+            artist: "The Cure",
+            genre: "Gothic rock",
+            releaseYear: 1984,
+            cover: "covers/the-cure--the-top.png",
+            streamLink: "https://open.spotify.com/album/5OniNO040dM4H5kAlet3XV",
+        }),
     ]
 }
