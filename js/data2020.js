@@ -141,5 +141,13 @@ let albums2020 =
             cover: "covers/the-cure--the-top.png",
             streamLink: "https://open.spotify.com/album/5OniNO040dM4H5kAlet3XV",
         }),
+        new Album ({
+            name: "Ordinary Man",
+            artist: "Ozzy Osbourne",
+            genre: "Heavy metal",
+            releaseYear: 2020,
+            cover: "covers/ozzy-osbourne--ordinary-man.png",
+            streamLink: "https://open.spotify.com/album/2x2cG56QicVfymWnRF0Nmj",
+        }),
     ]
 }
