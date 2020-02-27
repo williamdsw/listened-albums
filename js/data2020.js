@@ -149,5 +149,13 @@ let albums2020 =
             cover: "covers/ozzy-osbourne--ordinary-man.png",
             streamLink: "https://open.spotify.com/album/2x2cG56QicVfymWnRF0Nmj",
         }),
+        new Album ({
+            name: "Badmotorfinger",
+            artist: "Soundgarden",
+            genre: "Grunge",
+            releaseYear: 1991,
+            cover: "covers/soundgarden--badmotorfinger.png",
+            streamLink: "https://open.spotify.com/album/2W6MaUiInBkna5DfBES4E3",
+        }),
     ]
 }
