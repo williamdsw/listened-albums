@@ -157,5 +157,13 @@ let albums2020 =
             cover: "covers/soundgarden--badmotorfinger.png",
             streamLink: "https://open.spotify.com/album/2W6MaUiInBkna5DfBES4E3",
         }),
+        new Album ({
+            name: "White Feathers",
+            artist: "Kajagoogoo",
+            genre: "New Wave",
+            releaseYear: 1983,
+            cover: "covers/kajagoogoo--white-feathers.png",
+            streamLink: "https://open.spotify.com/album/52koatNHePHRWEmmkP0z2Z",
+        }),
     ]
 }
