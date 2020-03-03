@@ -165,5 +165,13 @@ let albums2020 =
             cover: "covers/kajagoogoo--white-feathers.png",
             streamLink: "https://open.spotify.com/album/52koatNHePHRWEmmkP0z2Z",
         }),
+        new Album ({
+            name: "How Could It Be",
+            artist: "Eddie Murphy",
+            genre: "R&B",
+            releaseYear: 1985,
+            cover: "covers/eddie-murphy--how-could-it-be.png",
+            streamLink: "https://open.spotify.com/album/2ghvihRomDb37X59VK6hp5",
+        }),
     ]
 }
