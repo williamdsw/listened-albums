@@ -173,5 +173,13 @@ let albums2020 =
             cover: "covers/eddie-murphy--how-could-it-be.png",
             streamLink: "https://open.spotify.com/album/2ghvihRomDb37X59VK6hp5",
         }),
+        new Album ({
+            name: "Disconnected",
+            artist: "Dry Cell",
+            genre: "Nu metal",
+            releaseYear: 2002,
+            cover: "covers/dry-cell--disconnected.png",
+            streamLink: "https://open.spotify.com/playlist/4UOYLanHctM74mBt1pcdUQ",
+        }),
     ]
 }
