@@ -181,5 +181,13 @@ let albums2020 =
             cover: "covers/dry-cell--disconnected.png",
             streamLink: "https://open.spotify.com/playlist/4UOYLanHctM74mBt1pcdUQ",
         }),
+        new Album ({
+            name: "Iron Savior",
+            artist: "Iron Savior",
+            genre: "Power metal",
+            releaseYear: 1997,
+            cover: "covers/iron-savior--iron-savior.png",
+            streamLink: "https://open.spotify.com/album/2DfiAmdJotkHGxKVgCJgtk",
+        }),
     ]
 }
