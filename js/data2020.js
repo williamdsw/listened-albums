@@ -136,7 +136,7 @@ let albums2020 =
         new Album ({
             name: "The Top",
             artist: "The Cure",
-            genre: "Gothic rock",
+            genre: "Gothic Rock",
             releaseYear: 1984,
             cover: "covers/the-cure--the-top.png",
             streamLink: "https://open.spotify.com/album/5OniNO040dM4H5kAlet3XV",
@@ -144,7 +144,7 @@ let albums2020 =
         new Album ({
             name: "Ordinary Man",
             artist: "Ozzy Osbourne",
-            genre: "Heavy metal",
+            genre: "Heavy Metal",
             releaseYear: 2020,
             cover: "covers/ozzy-osbourne--ordinary-man.png",
             streamLink: "https://open.spotify.com/album/2x2cG56QicVfymWnRF0Nmj",
@@ -176,7 +176,7 @@ let albums2020 =
         new Album ({
             name: "Disconnected",
             artist: "Dry Cell",
-            genre: "Nu metal",
+            genre: "Nu Metal",
             releaseYear: 2002,
             cover: "covers/dry-cell--disconnected.png",
             streamLink: "https://open.spotify.com/playlist/4UOYLanHctM74mBt1pcdUQ",
@@ -184,10 +184,18 @@ let albums2020 =
         new Album ({
             name: "Iron Savior",
             artist: "Iron Savior",
-            genre: "Power metal",
+            genre: "Power Metal",
             releaseYear: 1997,
             cover: "covers/iron-savior--iron-savior.png",
             streamLink: "https://open.spotify.com/album/2DfiAmdJotkHGxKVgCJgtk",
+        }),
+        new Album ({
+            name: "Give Me Fire",
+            artist: "Mando Diao",
+            genre: "Indie rock",
+            releaseYear: 2009,
+            cover: "covers/mando-diao--give-me-fire.png",
+            streamLink: "https://open.spotify.com/album/0Z6I8nXSQ5QPfuCPcoXlMj",
         }),
     ]
 }
