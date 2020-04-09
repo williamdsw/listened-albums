@@ -202,7 +202,7 @@ let albums2020 =
             artist: "Ministry",
             genre: "Industrial Rock",
             releaseYear: 1988,
-            cover: "covers/ministry--the-land-of-rape-and-Honey.png",
+            cover: "covers/ministry--the-land-of-rape-and-honey.png",
             streamLink: "https://open.spotify.com/album/6TyCJQqyB8OZLhUEPCNgNT",
         }),
     ]
