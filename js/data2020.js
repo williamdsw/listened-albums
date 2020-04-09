@@ -197,5 +197,13 @@ let albums2020 =
             cover: "covers/mando-diao--give-me-fire.png",
             streamLink: "https://open.spotify.com/album/0Z6I8nXSQ5QPfuCPcoXlMj",
         }),
+        new Album ({
+            name: "The Land of Rape and Honey",
+            artist: "Ministry",
+            genre: "Industrial Rock",
+            releaseYear: 1988,
+            cover: "covers/ministry--the-land-of-rape-and-Honey.png",
+            streamLink: "https://open.spotify.com/album/6TyCJQqyB8OZLhUEPCNgNT",
+        }),
     ]
 }
