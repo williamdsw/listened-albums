@@ -205,5 +205,13 @@ let albums2020 =
             cover: "covers/ministry--the-land-of-rape-and-honey.png",
             streamLink: "https://open.spotify.com/album/6TyCJQqyB8OZLhUEPCNgNT",
         }),
+        new Album ({
+            name: "Zui",
+            artist: "Showtaro Morikubo",
+            genre: "J-Rock",
+            releaseYear: 2001,
+            cover: "covers/showtaro-morikubo--zui.png",
+            streamLink: "https://www.youtube.com/watch?v=Sncc28xIIIk",
+        }),
     ]
 }
