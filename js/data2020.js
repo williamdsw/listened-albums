@@ -221,5 +221,13 @@ let albums2020 =
             cover: "covers/the-vapors--new-clear-days.png",
             streamLink: "https://open.spotify.com/album/0vAu0PT8xKotNhKDzYXJHA",
         }),
+        new Album ({
+            name: "Symbols",
+            artist: "KMDFM",
+            genre: "Industrial rock",
+            releaseYear: 1997,
+            cover: "covers/kmdfm--symbols.png",
+            streamLink: "https://open.spotify.com/album/6g99frcxtUThvTjTwo9LfC",
+        }),
     ]
 }
