@@ -213,5 +213,13 @@ let albums2020 =
             cover: "covers/showtaro-morikubo--zui.png",
             streamLink: "https://www.youtube.com/watch?v=Sncc28xIIIk",
         }),
+        new Album ({
+            name: "New Clear Days",
+            artist: "The Vapors",
+            genre: "New Wave",
+            releaseYear: 1980,
+            cover: "covers/the-vapors--new-clear-days.png",
+            streamLink: "https://open.spotify.com/album/0vAu0PT8xKotNhKDzYXJHA",
+        }),
     ]
 }
