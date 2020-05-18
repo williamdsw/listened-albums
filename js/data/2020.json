@@ -224,6 +224,14 @@
             "releaseYear": "1997",
             "cover": "covers/kmdfm--symbols.png",
             "streamLink": "https://open.spotify.com/album/6g99frcxtUThvTjTwo9LfC"
+        },
+        {
+            "name": "H2O",
+            "artist": "Hall & Oates",
+            "genre": "Pop",
+            "releaseYear": "1983",
+            "cover": "covers/hall-oates--h2o.png",
+            "streamLink": "https://open.spotify.com/album/7ygXmT175bKbOpiPjNwXOB"
         }
     ]
 }
