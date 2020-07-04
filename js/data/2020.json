@@ -232,6 +232,14 @@
             "releaseYear": "1983",
             "cover": "covers/hall-oates--h2o.png",
             "streamLink": "https://open.spotify.com/album/7ygXmT175bKbOpiPjNwXOB"
+        },
+        {
+            "name": "To Hell with the Devil",
+            "artist": "Stryper",
+            "genre": "Christian Metal",
+            "releaseYear": "1986",
+            "cover": "covers/stryper--to-hell-with-the-devil.png",
+            "streamLink": "https://open.spotify.com/album/4LAVjeUmJl3h3U44sMRrfm"
         }
     ]
 }
