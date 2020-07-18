@@ -240,6 +240,14 @@
             "releaseYear": "1986",
             "cover": "covers/stryper--to-hell-with-the-devil.png",
             "streamLink": "https://open.spotify.com/album/4LAVjeUmJl3h3U44sMRrfm"
+        },
+        {
+            "name": "Quadra",
+            "artist": "Sepultura",
+            "genre": "Thrash Metal",
+            "releaseYear": "2020",
+            "cover": "covers/sepultura--quadra.png",
+            "streamLink": "https://open.spotify.com/album/1OyRMXY6FZ4cUTTdzCBPSh"
         }
     ]
 }
