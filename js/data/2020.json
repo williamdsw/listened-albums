@@ -248,6 +248,14 @@
             "releaseYear": "2020",
             "cover": "covers/sepultura--quadra.png",
             "streamLink": "https://open.spotify.com/album/1OyRMXY6FZ4cUTTdzCBPSh"
+        },
+        {
+            "name": "Antichrist Superstar",
+            "artist": "Marilyn Manson",
+            "genre": "Industrial Metal",
+            "releaseYear": "1996",
+            "cover": "covers/marilyn-manson--antichrist-superstar.png",
+            "streamLink": "https://open.spotify.com/album/7APnZJwayR3lH9aUDPDYQB"
         }
     ]
 }
