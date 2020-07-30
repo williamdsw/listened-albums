@@ -256,6 +256,14 @@
             "releaseYear": "1996",
             "cover": "covers/marilyn-manson--antichrist-superstar.png",
             "streamLink": "https://open.spotify.com/album/7APnZJwayR3lH9aUDPDYQB"
+        },
+        {
+            "name": "The Very Best of Kajagoogoo",
+            "artist": "Kajagoogoo",
+            "genre": "New Wave",
+            "releaseYear": "1996",
+            "cover": "covers/kajagoogoo--the-very-best-of-kajagoogoo.png",
+            "streamLink": "https://open.spotify.com/album/18QlJWuxHQ1IGQ52qf8T1m"
         }
     ]
 }
