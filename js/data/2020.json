@@ -264,6 +264,14 @@
             "releaseYear": "1996",
             "cover": "covers/kajagoogoo--the-very-best-of-kajagoogoo.png",
             "streamLink": "https://open.spotify.com/album/18QlJWuxHQ1IGQ52qf8T1m"
+        },
+        {
+            "name": "Liberty",
+            "artist": "Duran Duran",
+            "genre": "Pop Rock",
+            "releaseYear": "1990",
+            "cover": "covers/duran-duran--liberty.png",
+            "streamLink": "https://open.spotify.com/album/6xt4fhJG5VevU7fVmqvlO7"
         }
     ]
 }

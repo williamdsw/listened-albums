@@ -43,6 +43,7 @@ function loadJsonData (index) {
         });
 
         console.log(listYears);
+        bindHeadersClick();
         return;
     }
 
@@ -91,9 +92,8 @@ function listAll (item, toShow) {
 
     // List albums content
     let albumContainer = document.querySelector ('#albums_container_' + item.year);
-    albumContainer.innerHTML = "";
-    item.albums.forEach ((album, index) => 
-    {
+    albumContainer.innerHTML = '';
+    item.albums.forEach ((album) =>  {
         albumContainer.innerHTML +=
         `<div class="album col-lg-3 col-md-3 col-xs-6 p-2">
             <div class="hover-effect">
