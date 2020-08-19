@@ -1,10 +1,8 @@
 body {background-color: #1e2c4f; }
 
-
-
 /* accordion */
 .accordion { margin: 10px; }
-.card-header { background-color: cornsilk; }
+.card-header { background-color: cornsilk; cursor: pointer; }
 .card-header h1 { color: darkslateblue; text-shadow: 2px 2px 3px #41a8b2; }
 .card-content { background-color: honeydew; }
 
@@ -15,8 +13,7 @@ body {background-color: #1e2c4f; }
 .album a.listen { color: yellow; font-weight: bold; }
 
 /* hover */
-.hover-effect 
-{
+.hover-effect {
   width: 100%;
   height: 100%;
   float: left;
@@ -27,16 +24,14 @@ body {background-color: #1e2c4f; }
   border: 2px dotted rgba(0, 0, 0, 0.25);
 }
 
-.hover-effect img
-{
+.hover-effect img {
   display: block;
   position: relative;
   -webkit-transition: all .4s linear;
   transition: all .4s linear;
 }
 
-.hover-effect .overlay
-{
+.hover-effect .overlay {
   width: 100%;
   height: 100%;
   overflow: hidden;
@@ -49,8 +44,7 @@ body {background-color: #1e2c4f; }
   transition: all .4s ease-in-out;
 }
 
-.hover-effect:hover img 
-{
+.hover-effect:hover img {
   -ms-transform: scale(1.2);
   -webkit-transform: scale(1.2);
   transform: scale(1.2);
