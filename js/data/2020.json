@@ -288,6 +288,14 @@
             "releaseYear": "1970",
             "cover": "covers/black-sabbath--paranoid.png",
             "streamLink": "https://open.spotify.com/album/132qAo1cDiEJdA3fv4xyNK"
+        },
+        {
+            "name": "Master of Reality",
+            "artist": "Black Sabbath",
+            "genre": "Heavy Metal",
+            "releaseYear": "1971",
+            "cover": "covers/black-sabbath--master-of-reality.png",
+            "streamLink": "https://open.spotify.com/album/3kBG6q0aXKxzn01wKTwZr5"
         }
     ]
 }
