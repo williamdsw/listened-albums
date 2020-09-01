@@ -280,6 +280,14 @@
             "releaseYear": "1995",
             "cover": "covers/duran-duran--thank-you.png",
             "streamLink": "https://open.spotify.com/album/2XIlp6UgHAQYNg3OTtoD54"
+        },
+        {
+            "name": "Paranoid",
+            "artist": "Black Sabbath",
+            "genre": "Heavy Metal",
+            "releaseYear": "1970",
+            "cover": "covers/black-sabbath--paranoid.png",
+            "streamLink": "https://open.spotify.com/album/132qAo1cDiEJdA3fv4xyNK"
         }
     ]
 }
