@@ -23,9 +23,7 @@ $(document).ready (() => {
         triggerSearch (this.value);
     });
 
-    propertySelect.addEventListener ('change', function () {
-        triggerSearch (keywordsInput.value);
-    });
+    propertySelect.addEventListener ('change', () => triggerSearch (keywordsInput.value));
 
     albumHeader.innerHTML = 'Latest entries:';
     bindHeadersClick ();
@@ -42,33 +40,24 @@ function loadJsonData (index) {
             listAll (item, (currentIndex == 0));
         });
 
-        console.log(listYears);
+        console.info('listYears', listYears);
         bindHeadersClick();
         return;
     }
 
-    let request = new XMLHttpRequest ();
-    if (window.XMLHttpRequest) {
-        request = new XMLHttpRequest ();
-    }
-    else if (window.ActiveXObject) {
-        request = new ActiveXObject ('Microsoft.XMLHTTP');
-    }
-
-    request.onreadystatechange = function () {
-        if (request.status === 200 && request.readyState === 4) {
-            let data = request.responseText;
-            if (data !== undefined && data !== null && data !== '') {
-                data = JSON.parse(data);
-                data.albums = data.albums.reverse();
-                listYears.push(data);
+    fetch(dataUrls[index]).then(response => {
+        if (response.ok) {
+            response.json().then(json => {
+                json.albums = json.albums.reverse();
+                listYears.push(json);
                 loadJsonData(++index);
-            }
+            });
         }
-    };
-
-    request.open ('GET', dataUrls[index], true);
-    request.send ();
+        else {
+            console.error('Do something with error');
+        }
+    })
+    .catch(error => console.error('Do something with error', error));
 }
 
 function listAll (item, toShow) {
@@ -123,20 +112,16 @@ function filterList (property, searchString) {
 
     yearContainer.innerHTML = '';
     albumHeader.innerHTML = (total >= 1 ? `${total} occurrence(s) found including '${searchString}'` : 'Nothing was found');
-    filteredYears.forEach ((item) => {
-        listAll (item, true);
-    });
+    filteredYears.forEach ((item) => listAll(item, true));
 
     bindHeadersClick ();
 }
 
 function getFiltered (item, property, searchString) {
-    let filtered = {
+    return {
         year: item.year,
         albums: item.albums.filter (album => album[property].toString ().toLowerCase ().includes (searchString.toLowerCase ()))
     };
-
-    return filtered;
 }
 
 function triggerSearch (value) {
@@ -148,9 +133,7 @@ function triggerSearch (value) {
     else {
         yearContainer.innerHTML = '';
         albumHeader.innerHTML = 'Latest entries:';
-        listYears.forEach ((item, index) => {
-            listAll (item, (index === 0));
-        })
+        listYears.forEach ((item, index) => listAll (item, (index === 0)));
 
         bindHeadersClick ();
     }
@@ -158,10 +141,8 @@ function triggerSearch (value) {
 
 function bindHeadersClick () {
     let headers = document.querySelectorAll ('div.accordion .card-header');
-    headers.forEach ((header, index) => {
+    headers.forEach ((header) => {
         let content = header.parentElement.querySelector ('.card-content');
-        $(header).on ('click', () => {
-            $(content).toggle ('slow', null);
-        });
+        $(header).on ('click', () => $(content).toggle ('slow', null));
     });
 }
