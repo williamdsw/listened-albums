@@ -296,6 +296,14 @@
             "releaseYear": "1971",
             "cover": "covers/black-sabbath--master-of-reality.png",
             "streamLink": "https://open.spotify.com/album/3kBG6q0aXKxzn01wKTwZr5"
+        },
+        {
+            "name": "Sabotage",
+            "artist": "Black Sabbath",
+            "genre": "Heavy Metal",
+            "releaseYear": "1975",
+            "cover": "covers/black-sabbath--sabotage.png",
+            "streamLink": "https://open.spotify.com/album/2hurj4babJXt1cIxmYFqqo"
         }
     ]
 }
