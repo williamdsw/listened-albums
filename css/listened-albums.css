@@ -1,8 +1,36 @@
 body {background-color: #1e2c4f; }
 
+/* search elements */
+input, select, select > option {
+  background: linear-gradient(to right, rgba(0, 0, 0, 0.8), rgba(0, 0, 0, 1));
+  background-color:rgba(0, 0, 0, 0.8);
+  color: white !important;
+  border-radius: 0 !important;
+  box-shadow: inset 1px 1px 10px rgba(255, 255, 255, 0.3);
+  box-shadow: 1px 1px 5px rgba(255, 255, 255, 0.7);
+}
+
+nav {
+  box-shadow: 0 10px 10px rgba(0, 0, 0, 0.8);
+  border-bottom: 1px dashed rgba(0, 0, 0, 0.5);
+}
+
+nav, footer {
+  background: linear-gradient(to right, #2c4072, #091024);
+}
+
+footer {
+  color: white;
+  padding: 1rem;
+  font-size: 110%;
+  border-top: 1px dashed rgba(0, 0, 0, 0.85);
+}
+
+
 /* accordion */
 .accordion { margin: 10px; }
 .card-header { background-color: cornsilk; cursor: pointer; }
+.card-header:hover { background-color: rgb(241, 234, 203); }
 .card-header h1 { color: darkslateblue; text-shadow: 2px 2px 3px #41a8b2; }
 .card-content { background-color: honeydew; }
 
@@ -22,6 +50,7 @@ body {background-color: #1e2c4f; }
   text-align: center;
   cursor: default;
   border: 2px dotted rgba(0, 0, 0, 0.25);
+  box-shadow: 5px 5px 10px black;
 }
 
 .hover-effect img {
@@ -54,4 +83,3 @@ body {background-color: #1e2c4f; }
 
 /* bootstrap ... */
 .form-group { margin: auto; }
-.navbar-brand { color: white !important; text-transform: capitalize; }

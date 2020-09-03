@@ -4,19 +4,21 @@
         <meta charset="utf-8">
         <meta name="viewport" content="width=device-width, initial-scale=1.0">
         <meta http-equiv="X-UA-Compatible" content="ie=edge">
+        <meta name="author" content="William Santos">
+        <meta name="description" content="My Latest New Listened Albums">
+        <meta name="keywords" content="html5, css3, javascript, music, albums, disc">
 
         <!-- css -->
         <link rel="stylesheet" href="libs/bootstrap/bootstrap.min.css"/>
         <link rel="stylesheet" href="css/listened-albums.css"/>
         <link rel="shortcut icon" href="files/disc-vinyl.png"/>
 
-        <title> "New" Listened Albums ... </title>
+        <title> My Latest New Listened Albums </title>
     </head>
     <body>
 
         <!-- Navbar -->
-        <nav class="navbar navbar-expand-lg navbar-dark bg-dark fixed-top">
-            <span class="navbar-brand"> "New" Listened Albums ... </span>
+        <nav class="navbar navbar-expand-lg navbar-dark bg-dark fixed-top mb-5">
             <section class="container">
 
                 <!-- Toggle -->
@@ -29,10 +31,10 @@
                 <!-- Search -->
                 <div id="movelmenu" class="collapse navbar-collapse my-3 my-sm-0">
                     <div class="form-row col-md-6 m-auto">
-                        <div class="form-group col-md-8">
+                        <div class="form-group col-md-8 col-sm-6 my-md-0 my-3">
                             <input type="search" id="keywords_input" class="form-control" placeholder="Search" aria-label="Search" value=""/>
                         </div>
-                        <div class="form-group col-md-4">
+                        <div class="form-group col-md-4 col-sm-6">
                             <select id="property_select" class="form-control mr-sm-2">
                                 <option value="name"> Album </option>
                                 <option value="artist"> Artist </option>
@@ -45,23 +47,39 @@
             </section>
         </nav>
 
-        <br/>
+        <br>
+
+        <!-- header -->
+        <header class="my-5">
+            <h1 class="text-center text-white"> My Latest New Listened Albums </h1>
+        </header>
 
         <!-- Content -->
-        <div class="container mt-5">
-            <div class="row">
-                <div class="jumbotron m-auto">
-                    <p>
-                        Challanged by <a href="https://mrs4w.github.io/listened-albums/"> MrS4w </a> 
-                        to do something related to my last "new" listened albums.
-                    </p>
+        <main>
+            <article>
+                <div class="container">
+                    <div class="row">
+                        <div class="jumbotron m-auto">
+                            <p>
+                                Challanged by <a href="https://mrs4w.github.io/listened-albums/" target="_blank"> MrS4w </a> 
+                                to do something related to my last "new" listened albums.
+                            </p>
+                        </div>
+                    </div>
+        
+                    <!-- Data -->
+                    <div class="row mt-3 mb-3">
+                        <div class="col-12">
+                            <h2 class="text-center" id="albums_header"> Header </h2></div>
+                        </div>
+                    <div id="year_container"></div>
                 </div>
-            </div>
+            </article>
+        </main>
 
-            <!-- Data -->
-            <div class="row mt-3 mb-3"><h2 id="albums_header"> Header </h2></div>
-            <div id="year_container"></div>
-        </div>
+        <footer>
+            <p class="text-center"> Done by <a href="https://github.com/williamdsw" target="_blank"> William Santos </a></p>
+        </footer>
 
         <!-- js -->
         <script src="libs/jquery/jquery-3.4.1.min.js"></script>

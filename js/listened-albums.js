@@ -84,7 +84,7 @@ function listAll (item, toShow) {
     albumContainer.innerHTML = '';
     item.albums.forEach ((album) =>  {
         albumContainer.innerHTML +=
-        `<div class="album col-lg-3 col-md-3 col-xs-6 p-2">
+        `<div class="album col-lg-3 col-md-3 col-xs-6 col-sm-6 p-2">
             <div class="hover-effect">
                 <img src="${album.cover}" class="card-img-top"/>
                 <div class="overlay">
