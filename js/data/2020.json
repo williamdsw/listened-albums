@@ -304,6 +304,14 @@
             "releaseYear": "1975",
             "cover": "covers/black-sabbath--sabotage.png",
             "streamLink": "https://open.spotify.com/album/2hurj4babJXt1cIxmYFqqo"
+        },
+        {
+            "name": "Vol. 4",
+            "artist": "Black Sabbath",
+            "genre": "Heavy Metal",
+            "releaseYear": "1972",
+            "cover": "covers/black-sabbath--vol-4.png",
+            "streamLink": "https://open.spotify.com/album/3iRW4cZOM90lX9Rtc2Qglh"
         }
     ]
 }
