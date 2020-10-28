@@ -328,6 +328,14 @@
             "releaseYear": "1995",
             "cover": "covers/wasp--still-not-black-enough.png",
             "streamLink": "https://www.youtube.com/watch?v=JjMBjRG1oSg"
+        },
+        {
+            "name": "Dirty Deeds Done Dirt Cheap",
+            "artist": "AC/DC",
+            "genre": "Hard Rock",
+            "releaseYear": "1976",
+            "cover": "covers/acdc--dirty-deeds-done-dirt-cheap.png",
+            "streamLink": "https://open.spotify.com/album/76mvVgXOde87B9aOzLXCOI"
         }
     ]
 }
