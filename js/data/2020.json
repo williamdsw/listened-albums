@@ -336,6 +336,14 @@
             "releaseYear": "1976",
             "cover": "covers/acdc--dirty-deeds-done-dirt-cheap.png",
             "streamLink": "https://open.spotify.com/album/76mvVgXOde87B9aOzLXCOI"
+        },
+        {
+            "name": "Let There Be Rock",
+            "artist": "AC/DC",
+            "genre": "Hard Rock",
+            "releaseYear": "1977",
+            "cover": "covers/acdc--let-there-be-rock.png",
+            "streamLink": "https://open.spotify.com/album/3JwFNl80WWeXPiKEjIFbqa"
         }
     ]
 }
