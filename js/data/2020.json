@@ -344,6 +344,14 @@
             "releaseYear": "1977",
             "cover": "covers/acdc--let-there-be-rock.png",
             "streamLink": "https://open.spotify.com/album/3JwFNl80WWeXPiKEjIFbqa"
+        },
+        {
+            "name": "Blackstar",
+            "artist": "David Bowie",
+            "genre": "Art Rock",
+            "releaseYear": "2016",
+            "cover": "covers/david-bowie--black-star.png",
+            "streamLink": "https://open.spotify.com/album/2w1YJXWMIco6EBf0CovvVN"
         }
     ]
 }
