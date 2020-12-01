@@ -352,6 +352,14 @@
             "releaseYear": "2016",
             "cover": "covers/david-bowie--black-star.png",
             "streamLink": "https://open.spotify.com/album/2w1YJXWMIco6EBf0CovvVN"
+        },
+        {
+            "name": "Wisconsin Death Trip",
+            "artist": "Static X",
+            "genre": "Industrial Metal",
+            "releaseYear": "1999",
+            "cover": "covers/static-x--wisconsin-death-trip.png",
+            "streamLink": "https://open.spotify.com/album/2WRLwr5MIIXr9gAWOOQ6J5"
         }
     ]
 }
