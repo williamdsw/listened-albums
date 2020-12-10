@@ -360,6 +360,14 @@
             "releaseYear": "1999",
             "cover": "covers/static-x--wisconsin-death-trip.png",
             "streamLink": "https://open.spotify.com/album/2WRLwr5MIIXr9gAWOOQ6J5"
+        },
+        {
+            "name": "ABBA Gold: Greatest Hits",
+            "artist": "ABBA",
+            "genre": "Europop",
+            "releaseYear": "1992",
+            "cover": "covers/abba--gold-greatest-hits.png",
+            "streamLink": "https://open.spotify.com/playlist/5zDA9OCLRf44MfKBus4Klj"
         }
     ]
 }
