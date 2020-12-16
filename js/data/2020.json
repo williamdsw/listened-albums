@@ -368,6 +368,14 @@
             "releaseYear": "1992",
             "cover": "covers/abba--gold-greatest-hits.png",
             "streamLink": "https://open.spotify.com/playlist/5zDA9OCLRf44MfKBus4Klj"
+        },
+        {
+            "name": "Start a War",
+            "artist": "Static X",
+            "genre": "Industrial Metal",
+            "releaseYear": "2005",
+            "cover": "covers/static-x--start-a-war.png",
+            "streamLink": "https://open.spotify.com/album/71j3INQJXy1sSQPkPiYxIO"
         }
     ]
 }
