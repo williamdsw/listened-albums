@@ -376,6 +376,14 @@
             "releaseYear": "2005",
             "cover": "covers/static-x--start-a-war.png",
             "streamLink": "https://open.spotify.com/album/71j3INQJXy1sSQPkPiYxIO"
+        },
+        {
+            "name": "Rising Force",
+            "artist": "Yngwie Malmsteen",
+            "genre": "Neoclassical Metal",
+            "releaseYear": "1984",
+            "cover": "covers/yngwie-malmsteen--rising-force.png",
+            "streamLink": "https://www.youtube.com/watch?v=IVRD3A4XvDQ"
         }
     ]
 }
