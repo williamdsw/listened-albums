@@ -1,0 +1,14 @@
+{
+    "year": "2021",
+    "albums":
+    [
+        {
+            "name": "Songs From The Big Chair",
+            "artist": "Tears For Fears",
+            "genre": "New Wave",
+            "releaseYear": "1985",
+            "cover": "covers/tears-for-fears--songs-from-the-big-chair.png",
+            "streamLink": "https://open.spotify.com/album/3myPwaMYjdwhtq0nFgeG6W"
+        }
+    ]
+}

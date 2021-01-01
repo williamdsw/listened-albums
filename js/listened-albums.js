@@ -1,6 +1,5 @@
 "use strict";
 
-//-------------------------------------------------------------------//
 // ELEMENTS
 
 const albumHeader = document.querySelector ('#albums_header');
@@ -10,10 +9,10 @@ const propertySelect = document.querySelector ("#property_select");
 let listYears = [];
 const dataUrls = [
     'js/data/2019.json', 
-    'js/data/2020.json'
+    'js/data/2020.json',
+    'js/data/2021.json',
 ];
 
-//-------------------------------------------------------------------//
 // EVENTS
 
 $(document).ready (() => {
@@ -29,7 +28,6 @@ $(document).ready (() => {
     bindHeadersClick ();
 });
 
-//-------------------------------------------------------------------//
 // HELPER FUNCTIONS
 
 function loadJsonData (index) {
