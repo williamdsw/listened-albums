@@ -9,6 +9,14 @@
             "releaseYear": "1985",
             "cover": "covers/tears-for-fears--songs-from-the-big-chair.png",
             "streamLink": "https://open.spotify.com/album/3myPwaMYjdwhtq0nFgeG6W"
+        },
+        {
+            "name": "The Golden Age of Grotesque",
+            "artist": "Marilyn Manson",
+            "genre": "Industrial Metal",
+            "releaseYear": "2003",
+            "cover": "covers/marilyn-manson--the-golden-age-of-grotesque.png",
+            "streamLink": "https://open.spotify.com/album/3KExM8E3KgpsS2bHVSJzTc"
         }
     ]
 }
