@@ -17,6 +17,14 @@
             "releaseYear": "2003",
             "cover": "covers/marilyn-manson--the-golden-age-of-grotesque.png",
             "streamLink": "https://open.spotify.com/album/3KExM8E3KgpsS2bHVSJzTc"
+        },
+        {
+            "name": "Gone to Earth",
+            "artist": "David Sylvian",
+            "genre": "Art Rock",
+            "releaseYear": "1986",
+            "cover": "covers/david-sylvian--gone-to-earth.png",
+            "streamLink": "https://open.spotify.com/album/3CRipGCmcoBTKdadiYIMOc"
         }
     ]
 }
