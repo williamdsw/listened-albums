@@ -25,6 +25,14 @@
             "releaseYear": "1986",
             "cover": "covers/david-sylvian--gone-to-earth.png",
             "streamLink": "https://open.spotify.com/album/3CRipGCmcoBTKdadiYIMOc"
+        },
+        {
+            "name": "Forever Young",
+            "artist": "Alphaville",
+            "genre": "Synth-pop",
+            "releaseYear": "1984",
+            "cover": "covers/alphaville--forever-young.png",
+            "streamLink": "https://open.spotify.com/album/2256qKBSQdt53T5dz4Kdcs"
         }
     ]
 }
