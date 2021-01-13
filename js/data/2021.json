@@ -33,6 +33,14 @@
             "releaseYear": "1984",
             "cover": "covers/alphaville--forever-young.png",
             "streamLink": "https://open.spotify.com/album/2256qKBSQdt53T5dz4Kdcs"
+        },
+        {
+            "name": "Charmed Life",
+            "artist": "Billy Idol",
+            "genre": "Hard Rock",
+            "releaseYear": "1990",
+            "cover": "covers/billy-idol--charmed-life.png",
+            "streamLink": "https://open.spotify.com/album/4GCciwt8efweJZ4AEEvnTQ"
         }
     ]
 }
