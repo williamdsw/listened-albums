@@ -41,6 +41,14 @@
             "releaseYear": "1990",
             "cover": "covers/billy-idol--charmed-life.png",
             "streamLink": "https://open.spotify.com/album/4GCciwt8efweJZ4AEEvnTQ"
+        },
+        {
+            "name": "Brilliant Trees",
+            "artist": "David Sylvian",
+            "genre": "Art Rock",
+            "releaseYear": "1984",
+            "cover": "covers/david-sylvian--brilliant-trees.png",
+            "streamLink": "https://open.spotify.com/album/5YIZcFDFKpUrcqviez8QWn"
         }
     ]
 }
