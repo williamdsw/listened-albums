@@ -49,6 +49,14 @@
             "releaseYear": "1984",
             "cover": "covers/david-sylvian--brilliant-trees.png",
             "streamLink": "https://open.spotify.com/album/5YIZcFDFKpUrcqviez8QWn"
+        },
+        {
+            "name": "Titles",
+            "artist": "Mick Karn",
+            "genre": "New Wave",
+            "releaseYear": "1982",
+            "cover": "covers/mick-karn--titles.png",
+            "streamLink": "https://open.spotify.com/album/1YzmqulzOFRRpYguPJHRph"
         }
     ]
 }
