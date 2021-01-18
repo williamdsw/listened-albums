@@ -57,6 +57,14 @@
             "releaseYear": "1982",
             "cover": "covers/mick-karn--titles.png",
             "streamLink": "https://open.spotify.com/album/1YzmqulzOFRRpYguPJHRph"
+        },
+        {
+            "name": "Narita",
+            "artist": "Riot",
+            "genre": "Heavy Metal",
+            "releaseYear": "1979",
+            "cover": "covers/riot--narita.png",
+            "streamLink": "https://open.spotify.com/album/5FFHPpaALLbcgBEeqHTG0q"
         }
     ]
 }
