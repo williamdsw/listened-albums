@@ -65,6 +65,14 @@
             "releaseYear": "1979",
             "cover": "covers/riot--narita.png",
             "streamLink": "https://open.spotify.com/album/5FFHPpaALLbcgBEeqHTG0q"
+        },
+        {
+            "name": "Bu-ikikaesu",
+            "artist": "Maximum the Hormone",
+            "genre": "Nu Metal",
+            "releaseYear": "2007",
+            "cover": "covers/maximum-the-hormone--bu-ikikaesu.png",
+            "streamLink": "https://open.spotify.com/album/43KD7ooLIEkXriTaZA4drI"
         }
     ]
 }
