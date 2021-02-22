@@ -73,6 +73,14 @@
             "releaseYear": "2007",
             "cover": "covers/maximum-the-hormone--bu-ikikaesu.png",
             "streamLink": "https://open.spotify.com/album/43KD7ooLIEkXriTaZA4drI"
+        },
+        {
+            "name": "A Flock of Seagulls",
+            "artist": "A Flock of Seagulls",
+            "genre": "New Wave",
+            "releaseYear": "1982",
+            "cover": "covers/a-flock-of-seagulls--a-flock-of-seagulls.png",
+            "streamLink": "https://open.spotify.com/album/1hwPP3qgnV7PQrMSy6qFw8"
         }
     ]
 }
