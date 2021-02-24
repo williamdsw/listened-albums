@@ -81,6 +81,14 @@
             "releaseYear": "1982",
             "cover": "covers/a-flock-of-seagulls--a-flock-of-seagulls.png",
             "streamLink": "https://open.spotify.com/album/1hwPP3qgnV7PQrMSy6qFw8"
+        },
+        {
+            "name": "The Best of the Best 1984–2000",
+            "artist": "W.A.S.P.",
+            "genre": "Heavy Metal",
+            "releaseYear": "2000",
+            "cover": "covers/wasp--the-best-of-the-best.png",
+            "streamLink": "https://open.spotify.com/album/1DtY5qcR2F8RB3r5Wrty3y"
         }
     ]
 }
