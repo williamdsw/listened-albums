@@ -89,6 +89,14 @@
             "releaseYear": "2000",
             "cover": "covers/wasp--the-best-of-the-best.png",
             "streamLink": "https://open.spotify.com/album/1DtY5qcR2F8RB3r5Wrty3y"
+        },
+        {
+            "name": "Tubular Bells II",
+            "artist": "Mike Oldfield",
+            "genre": "Progressive Rock",
+            "releaseYear": "1992",
+            "cover": "covers/mike-oldfield--tubular-bells-ii.png",
+            "streamLink": "https://open.spotify.com/album/0Z9Uio2xZCDztGCuozTPaH"
         }
     ]
 }
