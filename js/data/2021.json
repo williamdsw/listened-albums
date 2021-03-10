@@ -97,6 +97,14 @@
             "releaseYear": "1992",
             "cover": "covers/mike-oldfield--tubular-bells-ii.png",
             "streamLink": "https://open.spotify.com/album/0Z9Uio2xZCDztGCuozTPaH"
+        },
+        {
+            "name": "Ecco The Dolphin",
+            "artist": "Spencer Nilsen (SEGA)",
+            "genre": "Video Game Soundtrack",
+            "releaseYear": "1992",
+            "cover": "covers/spencer-nilsen--echo-the-dolphin.png",
+            "streamLink": "https://www.youtube.com/watch?v=tqMuvFEKCOk"
         }
     ]
 }
