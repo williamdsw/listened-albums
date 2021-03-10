@@ -105,6 +105,14 @@
             "releaseYear": "1992",
             "cover": "covers/spencer-nilsen--echo-the-dolphin.png",
             "streamLink": "https://www.youtube.com/watch?v=tqMuvFEKCOk"
+        },
+        {
+            "name": "Two Sides of the Metal",
+            "artist": "Fortuner",
+            "genre": "Heavy Metal",
+            "releaseYear": "1986",
+            "cover": "covers/fortuner--two-sides-of-metal.png",
+            "streamLink": "https://www.youtube.com/watch?v=lyaV2wGeGX8"
         }
     ]
 }
