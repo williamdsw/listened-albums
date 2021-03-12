@@ -113,6 +113,14 @@
             "releaseYear": "1986",
             "cover": "covers/fortuner--two-sides-of-metal.png",
             "streamLink": "https://www.youtube.com/watch?v=lyaV2wGeGX8"
+        },
+        {
+            "name": "Tubular Bells III",
+            "artist": "Mike Oldfield",
+            "genre": "New-age",
+            "releaseYear": "1998",
+            "cover": "covers/mike-oldfield--tubular-bells-iii.png",
+            "streamLink": "https://open.spotify.com/album/3DSrfmHKb8WWgrX1Mvsx6K"
         }
     ]
 }
