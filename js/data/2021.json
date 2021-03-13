@@ -121,6 +121,14 @@
             "releaseYear": "1998",
             "cover": "covers/mike-oldfield--tubular-bells-iii.png",
             "streamLink": "https://open.spotify.com/album/3DSrfmHKb8WWgrX1Mvsx6K"
+        },
+        {
+            "name": "Don't Tread",
+            "artist": "Damn Yankees",
+            "genre": "Hard Rock",
+            "releaseYear": "1992",
+            "cover": "covers/damn-yankees--dont-tread.png",
+            "streamLink": "https://open.spotify.com/album/6UyUf2nDnmV2CR36zgThs8"
         }
     ]
 }
