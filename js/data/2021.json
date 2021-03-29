@@ -129,6 +129,14 @@
             "releaseYear": "1992",
             "cover": "covers/damn-yankees--dont-tread.png",
             "streamLink": "https://open.spotify.com/album/6UyUf2nDnmV2CR36zgThs8"
+        },
+        {
+            "name": "Contraband",
+            "artist": "Velvet Revolver",
+            "genre": "Hard Rock",
+            "releaseYear": "2004",
+            "cover": "covers/velvet-revolver--contraband.png",
+            "streamLink": "https://open.spotify.com/album/64GnrmrpL1fvfF0r1AoZLB"
         }
     ]
 }
