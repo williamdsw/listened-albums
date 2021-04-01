@@ -137,6 +137,14 @@
             "releaseYear": "2004",
             "cover": "covers/velvet-revolver--contraband.png",
             "streamLink": "https://open.spotify.com/album/64GnrmrpL1fvfF0r1AoZLB"
+        },
+        {
+            "name": "Libertad",
+            "artist": "Velvet Revolver",
+            "genre": "Hard Rock",
+            "releaseYear": "2007",
+            "cover": "covers/velvet-revolver--libertad.png",
+            "streamLink": "https://open.spotify.com/album/2mFnAf5xnMOs1LBS4qRy5R"
         }
     ]
 }
