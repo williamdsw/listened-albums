@@ -153,6 +153,14 @@
             "releaseYear": "1979",
             "cover": "covers/cheap-trick--dream-police.png",
             "streamLink": "https://open.spotify.com/album/66sGbldg4VPdY70IcPdxtE"
+        },
+        {
+            "name": "Heaven Tonight",
+            "artist": "Cheap Trick",
+            "genre": "Hard Rock",
+            "releaseYear": "1978",
+            "cover": "covers/cheap-trick--heaven-tonight.png",
+            "streamLink": "https://open.spotify.com/album/5w20U3G3GyWiPvvDeVzkhN"
         }
     ]
 }
