@@ -145,6 +145,14 @@
             "releaseYear": "2007",
             "cover": "covers/velvet-revolver--libertad.png",
             "streamLink": "https://open.spotify.com/album/2mFnAf5xnMOs1LBS4qRy5R"
+        },
+        {
+            "name": "Dream Police",
+            "artist": "Cheap Trick",
+            "genre": "Power Pop",
+            "releaseYear": "1979",
+            "cover": "covers/cheap-trick--dream-police.png",
+            "streamLink": "https://open.spotify.com/album/66sGbldg4VPdY70IcPdxtE"
         }
     ]
 }
