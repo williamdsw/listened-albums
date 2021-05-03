@@ -161,6 +161,14 @@
             "releaseYear": "1978",
             "cover": "covers/cheap-trick--heaven-tonight.png",
             "streamLink": "https://open.spotify.com/album/5w20U3G3GyWiPvvDeVzkhN"
+        },
+        {
+            "name": "My Generation - The Very Best Of",
+            "artist": "The Who",
+            "genre": "Rock",
+            "releaseYear": "1996",
+            "cover": "covers/the-who--the-very-best-of-the-who.png",
+            "streamLink": "https://open.spotify.com/playlist/7b8Awei9i61K9Qzfd1mcu1"
         }
     ]
 }
