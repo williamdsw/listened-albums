@@ -169,6 +169,14 @@
             "releaseYear": "1996",
             "cover": "covers/the-who--the-very-best-of-the-who.png",
             "streamLink": "https://open.spotify.com/playlist/7b8Awei9i61K9Qzfd1mcu1"
+        },
+        {
+            "name": "Grand Funk Hits",
+            "artist": "Grand Funk Railroad",
+            "genre": "Rock",
+            "releaseYear": "1976",
+            "cover": "covers/grand-funk-railroad--grand-funk-hits.png",
+            "streamLink": "https://open.spotify.com/album/4HmWOsD5ggw9It34pM7nUf"
         }
     ]
 }
