@@ -177,6 +177,13 @@
             "releaseYear": "1976",
             "cover": "covers/grand-funk-railroad--grand-funk-hits.png",
             "streamLink": "https://open.spotify.com/album/4HmWOsD5ggw9It34pM7nUf"
+        },
+        {
+            "name": "Loverboy Classics",
+            "artist": "Loverboy",
+            "genre": "Rock",
+            "releaseYear": "1994",
+            "cover": "covers/loverboy--loverboy-classics.png"
         }
     ]
 }

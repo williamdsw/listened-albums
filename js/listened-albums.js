@@ -81,6 +81,7 @@ function listAll(item, toShow) {
     albumContainer.innerHTML = '';
     item.albums.forEach((album) => {
         const fullDescription = `${album.artist} - ${album.name}`;
+        const linkTag = (album.streamLink ? `<a class="listen" href="${album.streamLink}" target="_blank"> Listen </a>` : '');
         albumContainer.innerHTML +=
         `<div class="album col-lg-3 col-md-3 col-xs-6 col-sm-6 p-2">
             <div class="hover-effect" title="${fullDescription}">
@@ -91,7 +92,7 @@ function listAll(item, toShow) {
                         <h4 class="text-center"> ${album.artist} </h4>
                         <h6 class="text-center"> Released: ${album.releaseYear} </h6>
                         <h6 class="text-center"> ${album.genre} </h6>
-                        <a class="listen" href="${album.streamLink}" target="_blank"> Listen </a>
+                        ${linkTag}
                     </div>
                 </div>
             </div>
