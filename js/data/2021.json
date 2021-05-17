@@ -184,6 +184,14 @@
             "genre": "Rock",
             "releaseYear": "1994",
             "cover": "covers/loverboy--loverboy-classics.png"
+        },
+        {
+            "name": "The Very Best of Asia",
+            "artist": "Asia",
+            "genre": "Progressive Rock",
+            "releaseYear": "2000",
+            "cover": "covers/asia--the-very-best-of-asia.png",
+            "streamLink": "https://open.spotify.com/album/7eSzBoyCbM0qTOtuSKmWzO"
         }
     ]
 }
