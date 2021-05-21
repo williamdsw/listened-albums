@@ -192,6 +192,14 @@
             "releaseYear": "2000",
             "cover": "covers/asia--the-very-best-of-asia.png",
             "streamLink": "https://open.spotify.com/album/7eSzBoyCbM0qTOtuSKmWzO"
+        },
+        {
+            "name": "Devil's Night",
+            "artist": "D12",
+            "genre": "Hardcore Hip Hop",
+            "releaseYear": "2001",
+            "cover": "covers/d12--devils-night.png",
+            "streamLink": "https://open.spotify.com/album/22CVoj4sxsAGO02OONbkQA"
         }
     ]
 }
