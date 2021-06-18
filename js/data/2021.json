@@ -200,6 +200,14 @@
             "releaseYear": "2001",
             "cover": "covers/d12--devils-night.png",
             "streamLink": "https://open.spotify.com/album/22CVoj4sxsAGO02OONbkQA"
+        },
+        {
+            "name": "Helloween",
+            "artist": "Helloween",
+            "genre": "Power Metal",
+            "releaseYear": "2021",
+            "cover": "covers/helloween-helloween.png",
+            "streamLink": "https://open.spotify.com/album/1qHRm0MRGDZczHeggdvWDe"
         }
     ]
 }
