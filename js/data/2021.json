@@ -208,6 +208,14 @@
             "releaseYear": "2021",
             "cover": "covers/helloween-helloween.png",
             "streamLink": "https://open.spotify.com/album/1qHRm0MRGDZczHeggdvWDe"
+        },
+        {
+            "name": "Mass Effect",
+            "artist": "Jack Wall & Sam Hulick",
+            "genre": "Video Game Music",
+            "releaseYear": "2007",
+            "cover": "covers/mass-effect.png",
+            "streamLink": "https://open.spotify.com/album/3BTF9q997KuKxN9JgOBn7g"
         }
     ]
 }
