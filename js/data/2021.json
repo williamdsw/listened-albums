@@ -216,6 +216,14 @@
             "releaseYear": "2007",
             "cover": "covers/mass-effect.png",
             "streamLink": "https://open.spotify.com/album/3BTF9q997KuKxN9JgOBn7g"
+        },
+        {
+            "name": "Crises",
+            "artist": "Mike Oldfield",
+            "genre": "Progressive Rock",
+            "releaseYear": "1983",
+            "cover": "covers/mike-oldfield--crises.png",
+            "streamLink": "https://open.spotify.com/album/0LV4hwe1982xjN0bVBhpFw"
         }
     ]
 }
