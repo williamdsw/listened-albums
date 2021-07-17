@@ -224,6 +224,14 @@
             "releaseYear": "1983",
             "cover": "covers/mike-oldfield--crises.png",
             "streamLink": "https://open.spotify.com/album/0LV4hwe1982xjN0bVBhpFw"
+        },
+        {
+            "name": "Five Miles Out",
+            "artist": "Mike Oldfield",
+            "genre": "Progressive Rock",
+            "releaseYear": "1982",
+            "cover": "covers/mike-oldfield--five-miles-out.png",
+            "streamLink": "https://open.spotify.com/album/1NqFhS3YNSTxowqOJ0TjOR"
         }
     ]
 }
