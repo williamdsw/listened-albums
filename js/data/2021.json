@@ -232,6 +232,14 @@
             "releaseYear": "1982",
             "cover": "covers/mike-oldfield--five-miles-out.png",
             "streamLink": "https://open.spotify.com/album/1NqFhS3YNSTxowqOJ0TjOR"
+        },
+        {
+            "name": "Night Time",
+            "artist": "Killing Joke",
+            "genre": "Post-Punk",
+            "releaseYear": "1985",
+            "cover": "covers/killing-joke--night-time.png",
+            "streamLink": "https://open.spotify.com/album/2qcwXvluk9iFwNNg4eDBXm"
         }
     ]
 }
