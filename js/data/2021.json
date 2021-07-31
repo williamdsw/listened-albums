@@ -240,6 +240,14 @@
             "releaseYear": "1985",
             "cover": "covers/killing-joke--night-time.png",
             "streamLink": "https://open.spotify.com/album/2qcwXvluk9iFwNNg4eDBXm"
+        },
+        {
+            "name": "Discovery",
+            "artist": "Mike Oldfield",
+            "genre": "Progressive Rock",
+            "releaseYear": "1984",
+            "cover": "covers/mike-oldfield--discovery.png",
+            "streamLink": "https://open.spotify.com/album/6ipA0yGZ9puU2mu8oKIw8e"
         }
     ]
 }
