@@ -248,6 +248,14 @@
             "releaseYear": "1984",
             "cover": "covers/mike-oldfield--discovery.png",
             "streamLink": "https://open.spotify.com/album/6ipA0yGZ9puU2mu8oKIw8e"
+        },
+        {
+            "name": "Astronaut",
+            "artist": "Duran Duran",
+            "genre": "New Wave",
+            "releaseYear": "2004",
+            "cover": "covers/duran-duran--astronaut.png",
+            "streamLink": "https://open.spotify.com/album/75rfhN25yK4vx65OleViI5"
         }
     ]
 }
