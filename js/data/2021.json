@@ -256,6 +256,14 @@
             "releaseYear": "2004",
             "cover": "covers/duran-duran--astronaut.png",
             "streamLink": "https://open.spotify.com/album/75rfhN25yK4vx65OleViI5"
+        },
+        {
+            "name": "Weezer (Green Album)",
+            "artist": "Weezer",
+            "genre": "Power Pop",
+            "releaseYear": "2001",
+            "cover": "covers/weezer--green-album.png",
+            "streamLink": "https://open.spotify.com/album/2OBSz5Nlto0Q5CtYPzPY7c"
         }
     ]
 }
