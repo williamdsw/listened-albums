@@ -264,6 +264,14 @@
             "releaseYear": "2001",
             "cover": "covers/weezer--green-album.png",
             "streamLink": "https://open.spotify.com/album/2OBSz5Nlto0Q5CtYPzPY7c"
+        },
+        {
+            "name": "The Essential Men at Work",
+            "artist": "Men at Work",
+            "genre": "Rock",
+            "releaseYear": "2003",
+            "cover": "covers/men-at-work--the-essential-men-at-work.png",
+            "streamLink": "https://open.spotify.com/album/30aG9Rjezn1vxaYXrB8j3d"
         }
     ]
 }
