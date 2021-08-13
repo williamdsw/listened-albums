@@ -272,6 +272,14 @@
             "releaseYear": "2003",
             "cover": "covers/men-at-work--the-essential-men-at-work.png",
             "streamLink": "https://open.spotify.com/album/30aG9Rjezn1vxaYXrB8j3d"
+        },
+        {
+            "name": "Flood",
+            "artist": "Jocelyn Pook",
+            "genre": "Rock",
+            "releaseYear": "1999",
+            "cover": "covers/jocelyn-pook--flood.png",
+            "streamLink": "https://open.spotify.com/album/683eQCMyQNT6JCwfoL6Euk"
         }
     ]
 }
