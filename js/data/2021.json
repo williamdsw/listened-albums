@@ -276,10 +276,18 @@
         {
             "name": "Flood",
             "artist": "Jocelyn Pook",
-            "genre": "Rock",
+            "genre": "Classical",
             "releaseYear": "1999",
             "cover": "covers/jocelyn-pook--flood.png",
             "streamLink": "https://open.spotify.com/album/683eQCMyQNT6JCwfoL6Euk"
+        },
+        {
+            "name": "Medazzaland",
+            "artist": "Duran Duran",
+            "genre": "New Wave",
+            "releaseYear": "1997",
+            "cover": "covers/duran-duran--medazzaland.png",
+            "streamLink": "https://open.spotify.com/album/1rMGT0Sj0aFPvZxIvoNYfp"
         }
     ]
 }
