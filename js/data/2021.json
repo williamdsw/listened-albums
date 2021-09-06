@@ -288,6 +288,14 @@
             "releaseYear": "1997",
             "cover": "covers/duran-duran--medazzaland.png",
             "streamLink": "https://open.spotify.com/album/1rMGT0Sj0aFPvZxIvoNYfp"
+        },
+        {
+            "name": "Blue Murder",
+            "artist": "Blue Murder",
+            "genre": "Hard Rock",
+            "releaseYear": "1989",
+            "cover": "covers/blue-murder--blue-murder.png",
+            "streamLink": "https://open.spotify.com/album/2YKZOMLSEXv8TbToLggMBX"
         }
     ]
 }
