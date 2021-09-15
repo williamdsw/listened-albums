@@ -296,6 +296,14 @@
             "releaseYear": "1989",
             "cover": "covers/blue-murder--blue-murder.png",
             "streamLink": "https://open.spotify.com/album/2YKZOMLSEXv8TbToLggMBX"
+        },
+        {
+            "name": "Studio Sessions",
+            "artist": "Grand Slam",
+            "genre": "Rock",
+            "releaseYear": "1984",
+            "cover": "covers/grand-slam--studio-sessions.png",
+            "streamLink": "https://www.youtube.com/watch?v=qkE4OMCuRlM"
         }
     ]
 }
