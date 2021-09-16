@@ -304,6 +304,14 @@
             "releaseYear": "1984",
             "cover": "covers/grand-slam--studio-sessions.png",
             "streamLink": "https://www.youtube.com/watch?v=qkE4OMCuRlM"
+        },
+        {
+            "name": "Shadow King",
+            "artist": "Shadow King",
+            "genre": "Rock",
+            "releaseYear": "1991",
+            "cover": "covers/shadow-king--shadow-king.png",
+            "streamLink": "https://open.spotify.com/album/7bM3oG9PS37XyQJ6qmtdt5"
         }
     ]
 }
