@@ -320,6 +320,14 @@
             "releaseYear": "1986",
             "cover": "covers/savatage--fight-for-the-rock.png",
             "streamLink": "https://open.spotify.com/album/1jKevVsn1Z1NqplGevM8Sj"
+        },
+        {
+            "name": "Future Past",
+            "artist": "Duran Duran",
+            "genre": "New Wave",
+            "releaseYear": "2021",
+            "cover": "covers/duran-duran--future-past.png",
+            "streamLink": "https://open.spotify.com/album/7GyGHJ1jv0v2Sa0pcgs4fD"
         }
     ]
 }
