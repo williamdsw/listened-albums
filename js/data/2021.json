@@ -328,6 +328,14 @@
             "releaseYear": "2021",
             "cover": "covers/duran-duran--future-past.png",
             "streamLink": "https://open.spotify.com/album/7GyGHJ1jv0v2Sa0pcgs4fD"
+        },
+        {
+            "name": "Polytown",
+            "artist": "David Torn, Mick Karn, Terry Bozzio",
+            "genre": "Progressive Rock",
+            "releaseYear": "1994",
+            "cover": "covers/david-torn-mick-karn-terry-bozzio--polytown.png",
+            "streamLink": "https://www.youtube.com/watch?v=ydevAdaewSo&list=PLCbkNSGNbMI4Gwfat1A54J42WScVEDh1C"
         }
     ]
 }
