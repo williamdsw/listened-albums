@@ -336,6 +336,14 @@
             "releaseYear": "1994",
             "cover": "covers/david-torn-mick-karn-terry-bozzio--polytown.png",
             "streamLink": "https://www.youtube.com/watch?v=ydevAdaewSo&list=PLCbkNSGNbMI4Gwfat1A54J42WScVEDh1C"
+        },
+        {
+            "name": "A Tribute To Japan: Life In Tokyo",
+            "artist": "Various",
+            "genre": "Electronic",
+            "releaseYear": "1996",
+            "cover": "covers/various--a-tribute-to-japan-life-in-tokyo.png",
+            "streamLink": ""
         }
     ]
 }
