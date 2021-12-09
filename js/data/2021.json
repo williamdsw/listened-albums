@@ -344,6 +344,14 @@
             "releaseYear": "1996",
             "cover": "covers/various--a-tribute-to-japan-life-in-tokyo.png",
             "streamLink": ""
+        },
+        {
+            "name": "Sahara Elektrik",
+            "artist": "Dissidenten And Lem Chaheb",
+            "genre": "Electronic",
+            "releaseYear": "1984",
+            "cover": "covers/dissidenten-lem-chaheb--sahara-elektrik.png",
+            "streamLink": "https://open.spotify.com/album/3Vl1cnMHIBciZDPwmfZAk5"
         }
     ]
 }
