@@ -360,6 +360,14 @@
             "releaseYear": "1982",
             "cover": "covers/yazoo--upstairs-at-erics.png",
             "streamLink": "https://open.spotify.com/album/7ANiOkCxzT2FOeS5qS5bkF"
+        },
+        {
+            "name": "You and Me Both",
+            "artist": "Yazoo",
+            "genre": "Synthpop",
+            "releaseYear": "1983",
+            "cover": "covers/yazoo--you-and-me-both.png",
+            "streamLink": "https://open.spotify.com/album/3d36GcutOX3wL0Ap1OcDf2"
         }
     ]
 }
