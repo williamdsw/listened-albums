@@ -352,6 +352,14 @@
             "releaseYear": "1984",
             "cover": "covers/dissidenten-lem-chaheb--sahara-elektrik.png",
             "streamLink": "https://open.spotify.com/album/3Vl1cnMHIBciZDPwmfZAk5"
+        },
+        {
+            "name": "Upstairs at Eric's",
+            "artist": "Yazoo",
+            "genre": "Synthpop",
+            "releaseYear": "1982",
+            "cover": "covers/yazoo--upstairs-at-erics.png",
+            "streamLink": "https://open.spotify.com/album/7ANiOkCxzT2FOeS5qS5bkF"
         }
     ]
 }
