@@ -1,0 +1,11 @@
+{
+    "year": "2022",
+    "albums": [{
+        "name": "Self-Titled",
+        "artist": "Rage Against the Machine",
+        "genre": "Rap Metal",
+        "releaseYear": "1992",
+        "cover": "covers/rage-against-the-machine.png",
+        "streamLink": "https://open.spotify.com/album/4LaRYkT4oy47wEuQgkLBul"
+    }]
+}

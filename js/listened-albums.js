@@ -11,6 +11,7 @@ const dataUrls = [
     'js/data/2019.json',
     'js/data/2020.json',
     'js/data/2021.json',
+    'js/data/2022.json',
 ];
 
 // EVENTS
@@ -43,18 +44,17 @@ function loadJsonData(index) {
     }
 
     fetch(dataUrls[index]).then(response => {
-        if (response.ok) {
-            response.json().then(json => {
-                json.albums = json.albums.reverse();
-                listYears.push(json);
-                loadJsonData(++index);
-            });
-        }
-        else {
-            console.error('Do something with error');
-        }
-    })
-    .catch(error => console.error('Do something with error', error));
+            if (response.ok) {
+                response.json().then(json => {
+                    json.albums = json.albums.reverse();
+                    listYears.push(json);
+                    loadJsonData(++index);
+                });
+            } else {
+                console.error('Do something with error');
+            }
+        })
+        .catch(error => console.error('Do something with error', error));
 }
 
 function listAll(item, toShow) {
@@ -62,7 +62,7 @@ function listAll(item, toShow) {
 
     // New year container
     yearContainer.innerHTML +=
-    `<div id="year_accordion_${item.year}" class="accordion">
+        `<div id="year_accordion_${item.year}" class="accordion">
         <div class="card">
             <div id="accordion_header_${item.year}" class="card-header">
                 <h1 class="mb-0"> ${item.year} - ${contentLength >= 1 ? contentLength + ' album(s) ' : 'Not found'} </h1>
@@ -83,7 +83,7 @@ function listAll(item, toShow) {
         const fullDescription = `${album.artist} - ${album.name}`;
         const linkTag = (album.streamLink ? `<a class="listen" href="${album.streamLink}" target="_blank"> Listen </a>` : '');
         albumContainer.innerHTML +=
-        `<div class="album col-lg-3 col-md-3 col-xs-6 col-sm-6 p-2">
+            `<div class="album col-lg-3 col-md-3 col-xs-6 col-sm-6 p-2">
             <div class="hover-effect" title="${fullDescription}">
                 <img src="${album.cover}" class="card-img-top"/>
                 <div class="overlay">
@@ -128,8 +128,7 @@ function triggerSearch(value) {
         const property = propertySelect[propertySelect.selectedIndex].value;
         const searchString = value;
         filterList(property, searchString);
-    }
-    else {
+    } else {
         yearContainer.innerHTML = '';
         albumHeader.innerHTML = 'Latest entries:';
         listYears.forEach((item, index) => listAll(item, (index === 0)));
