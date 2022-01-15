@@ -1,11 +1,20 @@
 {
     "year": "2022",
     "albums": [{
-        "name": "Self-Titled",
-        "artist": "Rage Against the Machine",
-        "genre": "Rap Metal",
-        "releaseYear": "1992",
-        "cover": "covers/rage-against-the-machine.png",
-        "streamLink": "https://open.spotify.com/album/4LaRYkT4oy47wEuQgkLBul"
-    }]
+            "name": "Self-Titled",
+            "artist": "Rage Against the Machine",
+            "genre": "Rap Metal",
+            "releaseYear": "1992",
+            "cover": "covers/rage-against-the-machine.png",
+            "streamLink": "https://open.spotify.com/album/4LaRYkT4oy47wEuQgkLBul"
+        },
+        {
+            "name": "Raoul and the Kings of Spain",
+            "artist": "Tears For Fears",
+            "genre": "Pop Rock",
+            "releaseYear": "1995",
+            "cover": "covers/tears-for-fears--raoul-and-the-kings-of-spain.png",
+            "streamLink": "https://open.spotify.com/album/3bPkPFjOJGlbC52nQiqnFZ"
+        }
+    ]
 }
