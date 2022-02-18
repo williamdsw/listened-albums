@@ -15,6 +15,14 @@
             "releaseYear": "1995",
             "cover": "covers/tears-for-fears--raoul-and-the-kings-of-spain.png",
             "streamLink": "https://open.spotify.com/album/3bPkPFjOJGlbC52nQiqnFZ"
+        },
+        {
+            "name": "System of A Down",
+            "artist": "Toxicity",
+            "genre": "Alternative Metal",
+            "releaseYear": "2001",
+            "cover": "covers/system-of-a-down--toxicity.png",
+            "streamLink": "https://open.spotify.com/album/6jWde94ln40epKIQCd8XUh"
         }
     ]
 }
