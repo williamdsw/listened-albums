@@ -23,6 +23,14 @@
             "releaseYear": "2001",
             "cover": "covers/system-of-a-down--toxicity.png",
             "streamLink": "https://open.spotify.com/album/6jWde94ln40epKIQCd8XUh"
+        },
+        {
+            "name": "Generation X",
+            "artist": "Generation X",
+            "genre": "Punk",
+            "releaseYear": "1977",
+            "cover": "covers/generation-x--generation-x.png",
+            "streamLink": "https://open.spotify.com/album/3ROCE9iLv47ne4IlwNpkuu"
         }
     ]
 }
