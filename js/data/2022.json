@@ -31,6 +31,14 @@
             "releaseYear": "1977",
             "cover": "covers/generation-x--generation-x.png",
             "streamLink": "https://open.spotify.com/album/3ROCE9iLv47ne4IlwNpkuu"
+        },
+        {
+            "name": "Valley of the Dolls",
+            "artist": "Generation X",
+            "genre": "Rock",
+            "releaseYear": "1979",
+            "cover": "covers/generation-x--valley-of-the-dolls.png",
+            "streamLink": "https://open.spotify.com/album/1bMKVNm2eM71Nv7ToNnWeN"
         }
     ]
 }
