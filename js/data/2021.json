@@ -1,373 +1,371 @@
 {
-    "year": "2021",
-    "albums":
-    [
-        {
-            "name": "Songs From The Big Chair",
-            "artist": "Tears For Fears",
-            "genre": "New Wave",
-            "releaseYear": "1985",
-            "cover": "covers/tears-for-fears--songs-from-the-big-chair.png",
-            "streamLink": "https://open.spotify.com/album/3myPwaMYjdwhtq0nFgeG6W"
-        },
-        {
-            "name": "The Golden Age of Grotesque",
-            "artist": "Marilyn Manson",
-            "genre": "Industrial Metal",
-            "releaseYear": "2003",
-            "cover": "covers/marilyn-manson--the-golden-age-of-grotesque.png",
-            "streamLink": "https://open.spotify.com/album/3KExM8E3KgpsS2bHVSJzTc"
-        },
-        {
-            "name": "Gone to Earth",
-            "artist": "David Sylvian",
-            "genre": "Art Rock",
-            "releaseYear": "1986",
-            "cover": "covers/david-sylvian--gone-to-earth.png",
-            "streamLink": "https://open.spotify.com/album/3CRipGCmcoBTKdadiYIMOc"
-        },
-        {
-            "name": "Forever Young",
-            "artist": "Alphaville",
-            "genre": "Synth-pop",
-            "releaseYear": "1984",
-            "cover": "covers/alphaville--forever-young.png",
-            "streamLink": "https://open.spotify.com/album/2256qKBSQdt53T5dz4Kdcs"
-        },
-        {
-            "name": "Charmed Life",
-            "artist": "Billy Idol",
-            "genre": "Hard Rock",
-            "releaseYear": "1990",
-            "cover": "covers/billy-idol--charmed-life.png",
-            "streamLink": "https://open.spotify.com/album/4GCciwt8efweJZ4AEEvnTQ"
-        },
-        {
-            "name": "Brilliant Trees",
-            "artist": "David Sylvian",
-            "genre": "Art Rock",
-            "releaseYear": "1984",
-            "cover": "covers/david-sylvian--brilliant-trees.png",
-            "streamLink": "https://open.spotify.com/album/5YIZcFDFKpUrcqviez8QWn"
-        },
-        {
-            "name": "Titles",
-            "artist": "Mick Karn",
-            "genre": "New Wave",
-            "releaseYear": "1982",
-            "cover": "covers/mick-karn--titles.png",
-            "streamLink": "https://open.spotify.com/album/1YzmqulzOFRRpYguPJHRph"
-        },
-        {
-            "name": "Narita",
-            "artist": "Riot",
-            "genre": "Heavy Metal",
-            "releaseYear": "1979",
-            "cover": "covers/riot--narita.png",
-            "streamLink": "https://open.spotify.com/album/5FFHPpaALLbcgBEeqHTG0q"
-        },
-        {
-            "name": "Bu-ikikaesu",
-            "artist": "Maximum the Hormone",
-            "genre": "Nu Metal",
-            "releaseYear": "2007",
-            "cover": "covers/maximum-the-hormone--bu-ikikaesu.png",
-            "streamLink": "https://open.spotify.com/album/43KD7ooLIEkXriTaZA4drI"
-        },
-        {
-            "name": "A Flock of Seagulls",
-            "artist": "A Flock of Seagulls",
-            "genre": "New Wave",
-            "releaseYear": "1982",
-            "cover": "covers/a-flock-of-seagulls--a-flock-of-seagulls.png",
-            "streamLink": "https://open.spotify.com/album/1hwPP3qgnV7PQrMSy6qFw8"
-        },
-        {
-            "name": "The Best of the Best 1984–2000",
-            "artist": "W.A.S.P.",
-            "genre": "Heavy Metal",
-            "releaseYear": "2000",
-            "cover": "covers/wasp--the-best-of-the-best.png",
-            "streamLink": "https://open.spotify.com/album/1DtY5qcR2F8RB3r5Wrty3y"
-        },
-        {
-            "name": "Tubular Bells II",
-            "artist": "Mike Oldfield",
-            "genre": "Progressive Rock",
-            "releaseYear": "1992",
-            "cover": "covers/mike-oldfield--tubular-bells-ii.png",
-            "streamLink": "https://open.spotify.com/album/0Z9Uio2xZCDztGCuozTPaH"
-        },
-        {
-            "name": "Ecco The Dolphin",
-            "artist": "Spencer Nilsen (SEGA)",
-            "genre": "Video Game Soundtrack",
-            "releaseYear": "1992",
-            "cover": "covers/spencer-nilsen--echo-the-dolphin.png",
-            "streamLink": "https://www.youtube.com/watch?v=tqMuvFEKCOk"
-        },
-        {
-            "name": "Two Sides of the Metal",
-            "artist": "Fortuner",
-            "genre": "Heavy Metal",
-            "releaseYear": "1986",
-            "cover": "covers/fortuner--two-sides-of-metal.png",
-            "streamLink": "https://www.youtube.com/watch?v=lyaV2wGeGX8"
-        },
-        {
-            "name": "Tubular Bells III",
-            "artist": "Mike Oldfield",
-            "genre": "New-age",
-            "releaseYear": "1998",
-            "cover": "covers/mike-oldfield--tubular-bells-iii.png",
-            "streamLink": "https://open.spotify.com/album/3DSrfmHKb8WWgrX1Mvsx6K"
-        },
-        {
-            "name": "Don't Tread",
-            "artist": "Damn Yankees",
-            "genre": "Hard Rock",
-            "releaseYear": "1992",
-            "cover": "covers/damn-yankees--dont-tread.png",
-            "streamLink": "https://open.spotify.com/album/6UyUf2nDnmV2CR36zgThs8"
-        },
-        {
-            "name": "Contraband",
-            "artist": "Velvet Revolver",
-            "genre": "Hard Rock",
-            "releaseYear": "2004",
-            "cover": "covers/velvet-revolver--contraband.png",
-            "streamLink": "https://open.spotify.com/album/64GnrmrpL1fvfF0r1AoZLB"
-        },
-        {
-            "name": "Libertad",
-            "artist": "Velvet Revolver",
-            "genre": "Hard Rock",
-            "releaseYear": "2007",
-            "cover": "covers/velvet-revolver--libertad.png",
-            "streamLink": "https://open.spotify.com/album/2mFnAf5xnMOs1LBS4qRy5R"
-        },
-        {
-            "name": "Dream Police",
-            "artist": "Cheap Trick",
-            "genre": "Power Pop",
-            "releaseYear": "1979",
-            "cover": "covers/cheap-trick--dream-police.png",
-            "streamLink": "https://open.spotify.com/album/66sGbldg4VPdY70IcPdxtE"
-        },
-        {
-            "name": "Heaven Tonight",
-            "artist": "Cheap Trick",
-            "genre": "Hard Rock",
-            "releaseYear": "1978",
-            "cover": "covers/cheap-trick--heaven-tonight.png",
-            "streamLink": "https://open.spotify.com/album/5w20U3G3GyWiPvvDeVzkhN"
-        },
-        {
-            "name": "My Generation - The Very Best Of",
-            "artist": "The Who",
-            "genre": "Rock",
-            "releaseYear": "1996",
-            "cover": "covers/the-who--the-very-best-of-the-who.png",
-            "streamLink": "https://open.spotify.com/playlist/7b8Awei9i61K9Qzfd1mcu1"
-        },
-        {
-            "name": "Grand Funk Hits",
-            "artist": "Grand Funk Railroad",
-            "genre": "Rock",
-            "releaseYear": "1976",
-            "cover": "covers/grand-funk-railroad--grand-funk-hits.png",
-            "streamLink": "https://open.spotify.com/album/4HmWOsD5ggw9It34pM7nUf"
-        },
-        {
-            "name": "Loverboy Classics",
-            "artist": "Loverboy",
-            "genre": "Rock",
-            "releaseYear": "1994",
-            "cover": "covers/loverboy--loverboy-classics.png"
-        },
-        {
-            "name": "The Very Best of Asia",
-            "artist": "Asia",
-            "genre": "Progressive Rock",
-            "releaseYear": "2000",
-            "cover": "covers/asia--the-very-best-of-asia.png",
-            "streamLink": "https://open.spotify.com/album/7eSzBoyCbM0qTOtuSKmWzO"
-        },
-        {
-            "name": "Devil's Night",
-            "artist": "D12",
-            "genre": "Hardcore Hip Hop",
-            "releaseYear": "2001",
-            "cover": "covers/d12--devils-night.png",
-            "streamLink": "https://open.spotify.com/album/22CVoj4sxsAGO02OONbkQA"
-        },
-        {
-            "name": "Helloween",
-            "artist": "Helloween",
-            "genre": "Power Metal",
-            "releaseYear": "2021",
-            "cover": "covers/helloween-helloween.png",
-            "streamLink": "https://open.spotify.com/album/1qHRm0MRGDZczHeggdvWDe"
-        },
-        {
-            "name": "Mass Effect",
-            "artist": "Jack Wall & Sam Hulick",
-            "genre": "Video Game Music",
-            "releaseYear": "2007",
-            "cover": "covers/mass-effect.png",
-            "streamLink": "https://open.spotify.com/album/3BTF9q997KuKxN9JgOBn7g"
-        },
-        {
-            "name": "Crises",
-            "artist": "Mike Oldfield",
-            "genre": "Progressive Rock",
-            "releaseYear": "1983",
-            "cover": "covers/mike-oldfield--crises.png",
-            "streamLink": "https://open.spotify.com/album/0LV4hwe1982xjN0bVBhpFw"
-        },
-        {
-            "name": "Five Miles Out",
-            "artist": "Mike Oldfield",
-            "genre": "Progressive Rock",
-            "releaseYear": "1982",
-            "cover": "covers/mike-oldfield--five-miles-out.png",
-            "streamLink": "https://open.spotify.com/album/1NqFhS3YNSTxowqOJ0TjOR"
-        },
-        {
-            "name": "Night Time",
-            "artist": "Killing Joke",
-            "genre": "Post-Punk",
-            "releaseYear": "1985",
-            "cover": "covers/killing-joke--night-time.png",
-            "streamLink": "https://open.spotify.com/album/2qcwXvluk9iFwNNg4eDBXm"
-        },
-        {
-            "name": "Discovery",
-            "artist": "Mike Oldfield",
-            "genre": "Progressive Rock",
-            "releaseYear": "1984",
-            "cover": "covers/mike-oldfield--discovery.png",
-            "streamLink": "https://open.spotify.com/album/6ipA0yGZ9puU2mu8oKIw8e"
-        },
-        {
-            "name": "Astronaut",
-            "artist": "Duran Duran",
-            "genre": "New Wave",
-            "releaseYear": "2004",
-            "cover": "covers/duran-duran--astronaut.png",
-            "streamLink": "https://open.spotify.com/album/75rfhN25yK4vx65OleViI5"
-        },
-        {
-            "name": "Weezer (Green Album)",
-            "artist": "Weezer",
-            "genre": "Power Pop",
-            "releaseYear": "2001",
-            "cover": "covers/weezer--green-album.png",
-            "streamLink": "https://open.spotify.com/album/2OBSz5Nlto0Q5CtYPzPY7c"
-        },
-        {
-            "name": "The Essential Men at Work",
-            "artist": "Men at Work",
-            "genre": "Rock",
-            "releaseYear": "2003",
-            "cover": "covers/men-at-work--the-essential-men-at-work.png",
-            "streamLink": "https://open.spotify.com/album/30aG9Rjezn1vxaYXrB8j3d"
-        },
-        {
-            "name": "Flood",
-            "artist": "Jocelyn Pook",
-            "genre": "Classical",
-            "releaseYear": "1999",
-            "cover": "covers/jocelyn-pook--flood.png",
-            "streamLink": "https://open.spotify.com/album/683eQCMyQNT6JCwfoL6Euk"
-        },
-        {
-            "name": "Medazzaland",
-            "artist": "Duran Duran",
-            "genre": "New Wave",
-            "releaseYear": "1997",
-            "cover": "covers/duran-duran--medazzaland.png",
-            "streamLink": "https://open.spotify.com/album/1rMGT0Sj0aFPvZxIvoNYfp"
-        },
-        {
-            "name": "Blue Murder",
-            "artist": "Blue Murder",
-            "genre": "Hard Rock",
-            "releaseYear": "1989",
-            "cover": "covers/blue-murder--blue-murder.png",
-            "streamLink": "https://open.spotify.com/album/2YKZOMLSEXv8TbToLggMBX"
-        },
-        {
-            "name": "Studio Sessions",
-            "artist": "Grand Slam",
-            "genre": "Rock",
-            "releaseYear": "1984",
-            "cover": "covers/grand-slam--studio-sessions.png",
-            "streamLink": "https://www.youtube.com/watch?v=qkE4OMCuRlM"
-        },
-        {
-            "name": "Shadow King",
-            "artist": "Shadow King",
-            "genre": "Rock",
-            "releaseYear": "1991",
-            "cover": "covers/shadow-king--shadow-king.png",
-            "streamLink": "https://open.spotify.com/album/7bM3oG9PS37XyQJ6qmtdt5"
-        },
-        {
-            "name": "Fight for the Rock",
-            "artist": "Savatage",
-            "genre": "Heavy Metal",
-            "releaseYear": "1986",
-            "cover": "covers/savatage--fight-for-the-rock.png",
-            "streamLink": "https://open.spotify.com/album/1jKevVsn1Z1NqplGevM8Sj"
-        },
-        {
-            "name": "Future Past",
-            "artist": "Duran Duran",
-            "genre": "New Wave",
-            "releaseYear": "2021",
-            "cover": "covers/duran-duran--future-past.png",
-            "streamLink": "https://open.spotify.com/album/7GyGHJ1jv0v2Sa0pcgs4fD"
-        },
-        {
-            "name": "Polytown",
-            "artist": "David Torn, Mick Karn, Terry Bozzio",
-            "genre": "Progressive Rock",
-            "releaseYear": "1994",
-            "cover": "covers/david-torn-mick-karn-terry-bozzio--polytown.png",
-            "streamLink": "https://www.youtube.com/watch?v=ydevAdaewSo&list=PLCbkNSGNbMI4Gwfat1A54J42WScVEDh1C"
-        },
-        {
-            "name": "A Tribute To Japan: Life In Tokyo",
-            "artist": "Various",
-            "genre": "Electronic",
-            "releaseYear": "1996",
-            "cover": "covers/various--a-tribute-to-japan-life-in-tokyo.png",
-            "streamLink": ""
-        },
-        {
-            "name": "Sahara Elektrik",
-            "artist": "Dissidenten And Lem Chaheb",
-            "genre": "Electronic",
-            "releaseYear": "1984",
-            "cover": "covers/dissidenten-lem-chaheb--sahara-elektrik.png",
-            "streamLink": "https://open.spotify.com/album/3Vl1cnMHIBciZDPwmfZAk5"
-        },
-        {
-            "name": "Upstairs at Eric's",
-            "artist": "Yazoo",
-            "genre": "Synthpop",
-            "releaseYear": "1982",
-            "cover": "covers/yazoo--upstairs-at-erics.png",
-            "streamLink": "https://open.spotify.com/album/7ANiOkCxzT2FOeS5qS5bkF"
-        },
-        {
-            "name": "You and Me Both",
-            "artist": "Yazoo",
-            "genre": "Synthpop",
-            "releaseYear": "1983",
-            "cover": "covers/yazoo--you-and-me-both.png",
-            "streamLink": "https://open.spotify.com/album/3d36GcutOX3wL0Ap1OcDf2"
-        }
-    ]
+  "year": "2021",
+  "albums": [{
+      "name": "Songs From The Big Chair",
+      "artist": "Tears For Fears",
+      "genre": "New Wave",
+      "releaseYear": "1985",
+      "cover": "covers/tears-for-fears--songs-from-the-big-chair.png",
+      "streamLink": "https://open.spotify.com/album/3myPwaMYjdwhtq0nFgeG6W"
+    },
+    {
+      "name": "The Golden Age of Grotesque",
+      "artist": "Marilyn Manson",
+      "genre": "Industrial Metal",
+      "releaseYear": "2003",
+      "cover": "covers/marilyn-manson--the-golden-age-of-grotesque.png",
+      "streamLink": "https://open.spotify.com/album/3KExM8E3KgpsS2bHVSJzTc"
+    },
+    {
+      "name": "Gone to Earth",
+      "artist": "David Sylvian",
+      "genre": "Art Rock",
+      "releaseYear": "1986",
+      "cover": "covers/david-sylvian--gone-to-earth.png",
+      "streamLink": "https://open.spotify.com/album/3CRipGCmcoBTKdadiYIMOc"
+    },
+    {
+      "name": "Forever Young",
+      "artist": "Alphaville",
+      "genre": "Synth-pop",
+      "releaseYear": "1984",
+      "cover": "covers/alphaville--forever-young.png",
+      "streamLink": "https://open.spotify.com/album/2256qKBSQdt53T5dz4Kdcs"
+    },
+    {
+      "name": "Charmed Life",
+      "artist": "Billy Idol",
+      "genre": "Hard Rock",
+      "releaseYear": "1990",
+      "cover": "covers/billy-idol--charmed-life.png",
+      "streamLink": "https://open.spotify.com/album/4GCciwt8efweJZ4AEEvnTQ"
+    },
+    {
+      "name": "Brilliant Trees",
+      "artist": "David Sylvian",
+      "genre": "Art Rock",
+      "releaseYear": "1984",
+      "cover": "covers/david-sylvian--brilliant-trees.png",
+      "streamLink": "https://open.spotify.com/album/5YIZcFDFKpUrcqviez8QWn"
+    },
+    {
+      "name": "Titles",
+      "artist": "Mick Karn",
+      "genre": "New Wave",
+      "releaseYear": "1982",
+      "cover": "covers/mick-karn--titles.png",
+      "streamLink": "https://open.spotify.com/album/1YzmqulzOFRRpYguPJHRph"
+    },
+    {
+      "name": "Narita",
+      "artist": "Riot",
+      "genre": "Heavy Metal",
+      "releaseYear": "1979",
+      "cover": "covers/riot--narita.png",
+      "streamLink": "https://open.spotify.com/album/5FFHPpaALLbcgBEeqHTG0q"
+    },
+    {
+      "name": "Bu-ikikaesu",
+      "artist": "Maximum the Hormone",
+      "genre": "Nu Metal",
+      "releaseYear": "2007",
+      "cover": "covers/maximum-the-hormone--bu-ikikaesu.png",
+      "streamLink": "https://open.spotify.com/album/43KD7ooLIEkXriTaZA4drI"
+    },
+    {
+      "name": "A Flock of Seagulls",
+      "artist": "A Flock of Seagulls",
+      "genre": "New Wave",
+      "releaseYear": "1982",
+      "cover": "covers/a-flock-of-seagulls--a-flock-of-seagulls.png",
+      "streamLink": "https://open.spotify.com/album/1hwPP3qgnV7PQrMSy6qFw8"
+    },
+    {
+      "name": "The Best of the Best 1984–2000",
+      "artist": "W.A.S.P.",
+      "genre": "Heavy Metal",
+      "releaseYear": "2000",
+      "cover": "covers/wasp--the-best-of-the-best.png",
+      "streamLink": "https://open.spotify.com/album/1DtY5qcR2F8RB3r5Wrty3y"
+    },
+    {
+      "name": "Tubular Bells II",
+      "artist": "Mike Oldfield",
+      "genre": "Progressive Rock",
+      "releaseYear": "1992",
+      "cover": "covers/mike-oldfield--tubular-bells-ii.png",
+      "streamLink": "https://open.spotify.com/album/0Z9Uio2xZCDztGCuozTPaH"
+    },
+    {
+      "name": "Ecco The Dolphin",
+      "artist": "Spencer Nilsen (SEGA)",
+      "genre": "Video Game Soundtrack",
+      "releaseYear": "1992",
+      "cover": "covers/spencer-nilsen--echo-the-dolphin.png",
+      "streamLink": "https://www.youtube.com/watch?v=tqMuvFEKCOk"
+    },
+    {
+      "name": "Two Sides of the Metal",
+      "artist": "Fortuner",
+      "genre": "Heavy Metal",
+      "releaseYear": "1986",
+      "cover": "covers/fortuner--two-sides-of-metal.png",
+      "streamLink": "https://www.youtube.com/watch?v=lyaV2wGeGX8"
+    },
+    {
+      "name": "Tubular Bells III",
+      "artist": "Mike Oldfield",
+      "genre": "New-age",
+      "releaseYear": "1998",
+      "cover": "covers/mike-oldfield--tubular-bells-iii.png",
+      "streamLink": "https://open.spotify.com/album/3DSrfmHKb8WWgrX1Mvsx6K"
+    },
+    {
+      "name": "Don't Tread",
+      "artist": "Damn Yankees",
+      "genre": "Hard Rock",
+      "releaseYear": "1992",
+      "cover": "covers/damn-yankees--dont-tread.png",
+      "streamLink": "https://open.spotify.com/album/6UyUf2nDnmV2CR36zgThs8"
+    },
+    {
+      "name": "Contraband",
+      "artist": "Velvet Revolver",
+      "genre": "Hard Rock",
+      "releaseYear": "2004",
+      "cover": "covers/velvet-revolver--contraband.png",
+      "streamLink": "https://open.spotify.com/album/64GnrmrpL1fvfF0r1AoZLB"
+    },
+    {
+      "name": "Libertad",
+      "artist": "Velvet Revolver",
+      "genre": "Hard Rock",
+      "releaseYear": "2007",
+      "cover": "covers/velvet-revolver--libertad.png",
+      "streamLink": "https://open.spotify.com/album/2mFnAf5xnMOs1LBS4qRy5R"
+    },
+    {
+      "name": "Dream Police",
+      "artist": "Cheap Trick",
+      "genre": "Power Pop",
+      "releaseYear": "1979",
+      "cover": "covers/cheap-trick--dream-police.png",
+      "streamLink": "https://open.spotify.com/album/66sGbldg4VPdY70IcPdxtE"
+    },
+    {
+      "name": "Heaven Tonight",
+      "artist": "Cheap Trick",
+      "genre": "Hard Rock",
+      "releaseYear": "1978",
+      "cover": "covers/cheap-trick--heaven-tonight.png",
+      "streamLink": "https://open.spotify.com/album/5w20U3G3GyWiPvvDeVzkhN"
+    },
+    {
+      "name": "My Generation - The Very Best Of",
+      "artist": "The Who",
+      "genre": "Rock",
+      "releaseYear": "1996",
+      "cover": "covers/the-who--the-very-best-of-the-who.png",
+      "streamLink": "https://open.spotify.com/playlist/7b8Awei9i61K9Qzfd1mcu1"
+    },
+    {
+      "name": "Grand Funk Hits",
+      "artist": "Grand Funk Railroad",
+      "genre": "Rock",
+      "releaseYear": "1976",
+      "cover": "covers/grand-funk-railroad--grand-funk-hits.png",
+      "streamLink": "https://open.spotify.com/album/4HmWOsD5ggw9It34pM7nUf"
+    },
+    {
+      "name": "Loverboy Classics",
+      "artist": "Loverboy",
+      "genre": "Rock",
+      "releaseYear": "1994",
+      "cover": "covers/loverboy--loverboy-classics.png"
+    },
+    {
+      "name": "The Very Best of Asia",
+      "artist": "Asia",
+      "genre": "Progressive Rock",
+      "releaseYear": "2000",
+      "cover": "covers/asia--the-very-best-of-asia.png",
+      "streamLink": "https://open.spotify.com/album/7eSzBoyCbM0qTOtuSKmWzO"
+    },
+    {
+      "name": "Devil's Night",
+      "artist": "D12",
+      "genre": "Hardcore Hip Hop",
+      "releaseYear": "2001",
+      "cover": "covers/d12--devils-night.png",
+      "streamLink": "https://open.spotify.com/album/22CVoj4sxsAGO02OONbkQA"
+    },
+    {
+      "name": "Helloween",
+      "artist": "Helloween",
+      "genre": "Power Metal",
+      "releaseYear": "2021",
+      "cover": "covers/helloween-helloween.png",
+      "streamLink": "https://open.spotify.com/album/1qHRm0MRGDZczHeggdvWDe"
+    },
+    {
+      "name": "Mass Effect",
+      "artist": "Jack Wall & Sam Hulick",
+      "genre": "Video Game Music",
+      "releaseYear": "2007",
+      "cover": "covers/mass-effect.png",
+      "streamLink": "https://open.spotify.com/album/3BTF9q997KuKxN9JgOBn7g"
+    },
+    {
+      "name": "Crises",
+      "artist": "Mike Oldfield",
+      "genre": "Progressive Rock",
+      "releaseYear": "1983",
+      "cover": "covers/mike-oldfield--crises.png",
+      "streamLink": "https://open.spotify.com/album/0LV4hwe1982xjN0bVBhpFw"
+    },
+    {
+      "name": "Five Miles Out",
+      "artist": "Mike Oldfield",
+      "genre": "Progressive Rock",
+      "releaseYear": "1982",
+      "cover": "covers/mike-oldfield--five-miles-out.png",
+      "streamLink": "https://open.spotify.com/album/1NqFhS3YNSTxowqOJ0TjOR"
+    },
+    {
+      "name": "Night Time",
+      "artist": "Killing Joke",
+      "genre": "Post-Punk",
+      "releaseYear": "1985",
+      "cover": "covers/killing-joke--night-time.png",
+      "streamLink": "https://open.spotify.com/album/2qcwXvluk9iFwNNg4eDBXm"
+    },
+    {
+      "name": "Discovery",
+      "artist": "Mike Oldfield",
+      "genre": "Progressive Rock",
+      "releaseYear": "1984",
+      "cover": "covers/mike-oldfield--discovery.png",
+      "streamLink": "https://open.spotify.com/album/6ipA0yGZ9puU2mu8oKIw8e"
+    },
+    {
+      "name": "Astronaut",
+      "artist": "Duran Duran",
+      "genre": "New Wave",
+      "releaseYear": "2004",
+      "cover": "covers/duran-duran--astronaut.png",
+      "streamLink": "https://open.spotify.com/album/75rfhN25yK4vx65OleViI5"
+    },
+    {
+      "name": "Weezer (Green Album)",
+      "artist": "Weezer",
+      "genre": "Power Pop",
+      "releaseYear": "2001",
+      "cover": "covers/weezer--green-album.png",
+      "streamLink": "https://open.spotify.com/album/2OBSz5Nlto0Q5CtYPzPY7c"
+    },
+    {
+      "name": "The Essential Men at Work",
+      "artist": "Men at Work",
+      "genre": "Rock",
+      "releaseYear": "2003",
+      "cover": "covers/men-at-work--the-essential-men-at-work.png",
+      "streamLink": "https://open.spotify.com/album/30aG9Rjezn1vxaYXrB8j3d"
+    },
+    {
+      "name": "Flood",
+      "artist": "Jocelyn Pook",
+      "genre": "Classical",
+      "releaseYear": "1999",
+      "cover": "covers/jocelyn-pook--flood.png",
+      "streamLink": "https://open.spotify.com/album/683eQCMyQNT6JCwfoL6Euk"
+    },
+    {
+      "name": "Medazzaland",
+      "artist": "Duran Duran",
+      "genre": "New Wave",
+      "releaseYear": "1997",
+      "cover": "covers/duran-duran--medazzaland.png",
+      "streamLink": "https://open.spotify.com/album/1rMGT0Sj0aFPvZxIvoNYfp"
+    },
+    {
+      "name": "Blue Murder",
+      "artist": "Blue Murder",
+      "genre": "Hard Rock",
+      "releaseYear": "1989",
+      "cover": "covers/blue-murder--blue-murder.png",
+      "streamLink": "https://open.spotify.com/album/2YKZOMLSEXv8TbToLggMBX"
+    },
+    {
+      "name": "Studio Sessions",
+      "artist": "Grand Slam",
+      "genre": "Rock",
+      "releaseYear": "1984",
+      "cover": "covers/grand-slam--studio-sessions.png",
+      "streamLink": "https://www.youtube.com/watch?v=qkE4OMCuRlM"
+    },
+    {
+      "name": "Shadow King",
+      "artist": "Shadow King",
+      "genre": "Rock",
+      "releaseYear": "1991",
+      "cover": "covers/shadow-king--shadow-king.png",
+      "streamLink": "https://open.spotify.com/album/7bM3oG9PS37XyQJ6qmtdt5"
+    },
+    {
+      "name": "Fight for the Rock",
+      "artist": "Savatage",
+      "genre": "Heavy Metal",
+      "releaseYear": "1986",
+      "cover": "covers/savatage--fight-for-the-rock.png",
+      "streamLink": "https://open.spotify.com/album/1jKevVsn1Z1NqplGevM8Sj"
+    },
+    {
+      "name": "Future Past",
+      "artist": "Duran Duran",
+      "genre": "New Wave",
+      "releaseYear": "2021",
+      "cover": "covers/duran-duran--future-past.png",
+      "streamLink": "https://open.spotify.com/album/7GyGHJ1jv0v2Sa0pcgs4fD"
+    },
+    {
+      "name": "Polytown",
+      "artist": "David Torn, Mick Karn, Terry Bozzio",
+      "genre": "Progressive Rock",
+      "releaseYear": "1994",
+      "cover": "covers/david-torn-mick-karn-terry-bozzio--polytown.png",
+      "streamLink": "https://www.youtube.com/watch?v=ydevAdaewSo&list=PLCbkNSGNbMI4Gwfat1A54J42WScVEDh1C"
+    },
+    {
+      "name": "A Tribute To Japan: Life In Tokyo",
+      "artist": "Various",
+      "genre": "Electronic",
+      "releaseYear": "1996",
+      "cover": "covers/various--a-tribute-to-japan-life-in-tokyo.png",
+      "streamLink": ""
+    },
+    {
+      "name": "Sahara Elektrik",
+      "artist": "Dissidenten And Lem Chaheb",
+      "genre": "Electronic",
+      "releaseYear": "1984",
+      "cover": "covers/dissidenten-lem-chaheb--sahara-elektrik.png",
+      "streamLink": "https://open.spotify.com/album/3Vl1cnMHIBciZDPwmfZAk5"
+    },
+    {
+      "name": "Upstairs at Eric's",
+      "artist": "Yazoo",
+      "genre": "Synthpop",
+      "releaseYear": "1982",
+      "cover": "covers/yazoo--upstairs-at-erics.png",
+      "streamLink": "https://open.spotify.com/album/7ANiOkCxzT2FOeS5qS5bkF"
+    },
+    {
+      "name": "You and Me Both",
+      "artist": "Yazoo",
+      "genre": "Synthpop",
+      "releaseYear": "1983",
+      "cover": "covers/yazoo--you-and-me-both.png",
+      "streamLink": "https://open.spotify.com/album/3d36GcutOX3wL0Ap1OcDf2"
+    }
+  ]
 }

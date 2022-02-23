@@ -1,44 +1,52 @@
 {
-    "year": "2022",
-    "albums": [{
-            "name": "Self-Titled",
-            "artist": "Rage Against the Machine",
-            "genre": "Rap Metal",
-            "releaseYear": "1992",
-            "cover": "covers/rage-against-the-machine.png",
-            "streamLink": "https://open.spotify.com/album/4LaRYkT4oy47wEuQgkLBul"
-        },
-        {
-            "name": "Raoul and the Kings of Spain",
-            "artist": "Tears For Fears",
-            "genre": "Pop Rock",
-            "releaseYear": "1995",
-            "cover": "covers/tears-for-fears--raoul-and-the-kings-of-spain.png",
-            "streamLink": "https://open.spotify.com/album/3bPkPFjOJGlbC52nQiqnFZ"
-        },
-        {
-            "name": "System of A Down",
-            "artist": "Toxicity",
-            "genre": "Alternative Metal",
-            "releaseYear": "2001",
-            "cover": "covers/system-of-a-down--toxicity.png",
-            "streamLink": "https://open.spotify.com/album/6jWde94ln40epKIQCd8XUh"
-        },
-        {
-            "name": "Generation X",
-            "artist": "Generation X",
-            "genre": "Punk",
-            "releaseYear": "1977",
-            "cover": "covers/generation-x--generation-x.png",
-            "streamLink": "https://open.spotify.com/album/3ROCE9iLv47ne4IlwNpkuu"
-        },
-        {
-            "name": "Valley of the Dolls",
-            "artist": "Generation X",
-            "genre": "Rock",
-            "releaseYear": "1979",
-            "cover": "covers/generation-x--valley-of-the-dolls.png",
-            "streamLink": "https://open.spotify.com/album/1bMKVNm2eM71Nv7ToNnWeN"
-        }
-    ]
+  "year": "2022",
+  "albums": [{
+      "name": "Self-Titled",
+      "artist": "Rage Against the Machine",
+      "genre": "Rap Metal",
+      "releaseYear": "1992",
+      "cover": "covers/rage-against-the-machine.png",
+      "streamLink": "https://open.spotify.com/album/4LaRYkT4oy47wEuQgkLBul"
+    },
+    {
+      "name": "Raoul and the Kings of Spain",
+      "artist": "Tears For Fears",
+      "genre": "Pop Rock",
+      "releaseYear": "1995",
+      "cover": "covers/tears-for-fears--raoul-and-the-kings-of-spain.png",
+      "streamLink": "https://open.spotify.com/album/3bPkPFjOJGlbC52nQiqnFZ"
+    },
+    {
+      "name": "System of A Down",
+      "artist": "Toxicity",
+      "genre": "Alternative Metal",
+      "releaseYear": "2001",
+      "cover": "covers/system-of-a-down--toxicity.png",
+      "streamLink": "https://open.spotify.com/album/6jWde94ln40epKIQCd8XUh"
+    },
+    {
+      "name": "Generation X",
+      "artist": "Generation X",
+      "genre": "Punk",
+      "releaseYear": "1977",
+      "cover": "covers/generation-x--generation-x.png",
+      "streamLink": "https://open.spotify.com/album/3ROCE9iLv47ne4IlwNpkuu"
+    },
+    {
+      "name": "Valley of the Dolls",
+      "artist": "Generation X",
+      "genre": "Rock",
+      "releaseYear": "1979",
+      "cover": "covers/generation-x--valley-of-the-dolls.png",
+      "streamLink": "https://open.spotify.com/album/1bMKVNm2eM71Nv7ToNnWeN"
+    },
+    {
+      "name": "Kiss Me Deadly",
+      "artist": "Gen X",
+      "genre": "New Wave",
+      "releaseYear": "1981",
+      "cover": "covers/gen-x--kiss-me-deadly.png",
+      "streamLink": "https://open.spotify.com/album/67Ee6sSx28m3wFS6EUZGpB"
+    }
+  ]
 }

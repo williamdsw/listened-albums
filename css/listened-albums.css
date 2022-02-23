@@ -1,9 +1,13 @@
-body {background-color: #1e2c4f; }
+body {
+  background-color: #1e2c4f;
+}
 
 /* search elements */
-input, select, select > option {
+input,
+select,
+select > option {
   background: linear-gradient(to right, rgba(0, 0, 0, 0.8), rgba(0, 0, 0, 1));
-  background-color:rgba(0, 0, 0, 0.8);
+  background-color: rgba(0, 0, 0, 0.8);
   color: white !important;
   border-radius: 0 !important;
   box-shadow: inset 1px 1px 10px rgba(255, 255, 255, 0.3);
@@ -15,7 +19,8 @@ nav {
   border-bottom: 1px dashed rgba(0, 0, 0, 0.5);
 }
 
-nav, footer {
+nav,
+footer {
   background: linear-gradient(to right, #2c4072, #091024);
 }
 
@@ -26,19 +31,41 @@ footer {
   border-top: 1px dashed rgba(0, 0, 0, 0.85);
 }
 
-
 /* accordion */
-.accordion { margin: 10px; }
-.card-header { background-color: cornsilk; cursor: pointer; }
-.card-header:hover { background-color: rgb(241, 234, 203); }
-.card-header h1 { color: darkslateblue; text-shadow: 2px 2px 3px #41a8b2; }
-.card-content { background-color: honeydew; }
+.accordion {
+  margin: 10px;
+}
+.card-header {
+  background-color: cornsilk;
+  cursor: pointer;
+}
+.card-header:hover {
+  background-color: rgb(241, 234, 203);
+}
+.card-header h1 {
+  color: darkslateblue;
+  text-shadow: 2px 2px 3px #41a8b2;
+}
+.card-content {
+  background-color: honeydew;
+}
 
 /* album */
-#albums_header { color: white; text-shadow: 2px 2px purple; }
-.album { color: white; text-shadow: 2px 1px red; }
-.album a { text-shadow: none; }
-.album a.listen { color: yellow; font-weight: bold; }
+#albums_header {
+  color: white;
+  text-shadow: 2px 2px purple;
+}
+.album {
+  color: white;
+  text-shadow: 2px 1px red;
+}
+.album a {
+  text-shadow: none;
+}
+.album a.listen {
+  color: yellow;
+  font-weight: bold;
+}
 
 /* hover */
 .hover-effect {
@@ -56,8 +83,8 @@ footer {
 .hover-effect img {
   display: block;
   position: relative;
-  -webkit-transition: all .4s linear;
-  transition: all .4s linear;
+  -webkit-transition: all 0.4s linear;
+  transition: all 0.4s linear;
 }
 
 .hover-effect .overlay {
@@ -69,8 +96,8 @@ footer {
   left: 0;
   opacity: 0;
   background-color: rgba(0, 0, 0, 0.5);
-  -webkit-transition: all .4s ease-in-out;
-  transition: all .4s ease-in-out;
+  -webkit-transition: all 0.4s ease-in-out;
+  transition: all 0.4s ease-in-out;
 }
 
 .hover-effect:hover img {
@@ -79,7 +106,12 @@ footer {
   transform: scale(1.2);
 }
 
-.hover-effect:hover .overlay { opacity: 1; filter: alpha(opacity=100); }
+.hover-effect:hover .overlay {
+  opacity: 1;
+  filter: alpha(opacity=100);
+}
 
 /* bootstrap ... */
-.form-group { margin: auto; }
+.form-group {
+  margin: auto;
+}
