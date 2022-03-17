@@ -47,6 +47,14 @@
       "releaseYear": "1981",
       "cover": "covers/gen-x--kiss-me-deadly.png",
       "streamLink": "https://open.spotify.com/album/67Ee6sSx28m3wFS6EUZGpB"
+    },
+    {
+      "name": "Impera",
+      "artist": "Ghost",
+      "genre": "Hard Rock",
+      "releaseYear": "2022",
+      "cover": "covers/ghost--impera.png",
+      "streamLink": "https://open.spotify.com/album/3fn4HfVz5dhmE0PG24rh6h"
     }
   ]
 }
