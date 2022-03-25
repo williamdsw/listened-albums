@@ -55,6 +55,14 @@
       "releaseYear": "2022",
       "cover": "covers/ghost--impera.png",
       "streamLink": "https://open.spotify.com/album/3fn4HfVz5dhmE0PG24rh6h"
+    },
+    {
+      "name": "Islands",
+      "artist": "Mike Oldfield",
+      "genre": "Progressive Rock",
+      "releaseYear": "1987",
+      "cover": "covers/mike-oldfield--islands.png",
+      "streamLink": "https://www.youtube.com/watch?v=-jhfI5-pszA"
     }
   ]
 }
