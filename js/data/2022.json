@@ -63,6 +63,14 @@
       "releaseYear": "1987",
       "cover": "covers/mike-oldfield--islands.png",
       "streamLink": "https://www.youtube.com/watch?v=-jhfI5-pszA"
+    },
+    {
+      "name": "Electrock ",
+      "artist": "m.o.v.e",
+      "genre": "Synthpop",
+      "releaseYear": "1998",
+      "cover": "covers/move--electrock.png",
+      "streamLink": "https://open.spotify.com/album/1hj6fNhegvJeO7dNM4Donw"
     }
   ]
 }
