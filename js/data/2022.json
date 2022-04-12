@@ -65,12 +65,20 @@
       "streamLink": "https://www.youtube.com/watch?v=-jhfI5-pszA"
     },
     {
-      "name": "Electrock ",
+      "name": "Electrock",
       "artist": "m.o.v.e",
       "genre": "Synthpop",
       "releaseYear": "1998",
       "cover": "covers/move--electrock.png",
       "streamLink": "https://open.spotify.com/album/1hj6fNhegvJeO7dNM4Donw"
+    },
+    {
+      "name": "De-Loused in the Comatorium",
+      "artist": "The Mars Volta",
+      "genre": "Progressive Rock",
+      "releaseYear": "2003",
+      "cover": "covers/the-mars-volta--de-loused-in-the-comatorium.png",
+      "streamLink": "https://open.spotify.com/album/0CA2EVHhRPR5VPV78KZw89"
     }
   ]
 }
