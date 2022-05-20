@@ -103,6 +103,14 @@
       "releaseYear": "1985",
       "cover": "covers/ostrogoth--too-hot.png",
       "streamLink": "https://open.spotify.com/album/1T8lUC34MFRkSHE3hVYBEw"
+    },
+    {
+      "name": "Borrowed Time",
+      "artist": "Diamond Head",
+      "genre": "Heavy Metal",
+      "releaseYear": "1982",
+      "cover": "covers/diamond-head--borrowed-time.png",
+      "streamLink": "https://open.spotify.com/album/7gy2aXBbOrpQFp5dDFKJ67"
     }
   ]
 }
