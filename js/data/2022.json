@@ -95,6 +95,14 @@
       "releaseYear": "1991",
       "cover": "covers/jansen-barbieri--stories-across-borders.png",
       "streamLink": "https://open.spotify.com/album/4ec3C85742EsO0f0xknBDq"
+    },
+    {
+      "name": "Too Hot",
+      "artist": "Ostrogoth",
+      "genre": "Heavy Metal",
+      "releaseYear": "1985",
+      "cover": "covers/ostrogoth--too-hot.png",
+      "streamLink": "https://open.spotify.com/album/1T8lUC34MFRkSHE3hVYBEw"
     }
   ]
 }
