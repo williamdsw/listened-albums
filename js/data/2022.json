@@ -127,6 +127,14 @@
       "releaseYear": "1978",
       "cover": "covers/acdc-powerage.png",
       "streamLink": "https://open.spotify.com/album/4iMaHsHqTg3rwOtRa5wEbm"
+    },
+    {
+      "name": "Death & Progress",
+      "artist": "Diamond Head",
+      "genre": "Heavy Metal",
+      "releaseYear": "1993",
+      "cover": "covers/diamond-head--death-progress.png",
+      "streamLink": "https://open.spotify.com/album/5E3LdklvkCQAQNqlhcBplq"
     }
   ]
 }
