@@ -111,6 +111,14 @@
       "releaseYear": "1982",
       "cover": "covers/diamond-head--borrowed-time.png",
       "streamLink": "https://open.spotify.com/album/7gy2aXBbOrpQFp5dDFKJ67"
+    },
+    {
+      "name": "Canterbury",
+      "artist": "Diamond Head",
+      "genre": "Progressive Rock",
+      "releaseYear": "1983",
+      "cover": "covers/diamond-head--canterbury.png",
+      "streamLink": "https://open.spotify.com/album/63tWLu5rr6KpEyOSnAcqjS"
     }
   ]
 }
