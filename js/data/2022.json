@@ -119,6 +119,14 @@
       "releaseYear": "1983",
       "cover": "covers/diamond-head--canterbury.png",
       "streamLink": "https://open.spotify.com/album/63tWLu5rr6KpEyOSnAcqjS"
+    },
+    {
+      "name": "Powerage",
+      "artist": "AC/DC",
+      "genre": "Hard Rock",
+      "releaseYear": "1978",
+      "cover": "covers/acdc-powerage.png",
+      "streamLink": "https://open.spotify.com/album/4iMaHsHqTg3rwOtRa5wEbm"
     }
   ]
 }
