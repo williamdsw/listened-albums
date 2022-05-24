@@ -140,9 +140,17 @@
       "name": "Feelings Of Fury",
       "artist": "Ostrogoth",
       "genre": "Heavy Metal",
-      "releaseYear": "1983",
+      "releaseYear": "1987",
       "cover": "covers/ostrogoth--feelings-of-fury.png",
       "streamLink": "https://open.spotify.com/album/0M4I9cMlW5Ma0VeDI3PzHf"
+    },
+    {
+      "name": "Full Moon's Eyes",
+      "artist": "Ostrogoth",
+      "genre": "Heavy Metal",
+      "releaseYear": "1983",
+      "cover": "covers/ostrogoth--full-moons-eyes.png",
+      "streamLink": "https://www.youtube.com/watch?v=lRliuy81dI8"
     }
   ]
 }
