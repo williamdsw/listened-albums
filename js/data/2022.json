@@ -151,6 +151,14 @@
       "releaseYear": "1983",
       "cover": "covers/ostrogoth--full-moons-eyes.png",
       "streamLink": "https://www.youtube.com/watch?v=lRliuy81dI8"
+    },
+    {
+      "name": "Masque",
+      "artist": "Kansas",
+      "genre": "Progressive Rock",
+      "releaseYear": "1975",
+      "cover": "covers/kansas--masque.png",
+      "streamLink": "https://open.spotify.com/album/3ErpZfUzDkjSIjSU3CC4RU"
     }
   ]
 }
