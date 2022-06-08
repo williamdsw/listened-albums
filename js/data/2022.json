@@ -167,6 +167,14 @@
       "releaseYear": "1986",
       "cover": "covers/van-halen--5150.png",
       "streamLink": "https://open.spotify.com/album/5Ew5vOg3PYyT9QUPCrdIZq"
+    },
+    {
+      "name": "Dark Ages",
+      "artist": "Soulfly",
+      "genre": "Thrash Metal",
+      "releaseYear": "2005",
+      "cover": "covers/soulfly--dark-ages.png",
+      "streamLink": "https://open.spotify.com/album/2PfrKcExIR47WIxgpfk914"
     }
   ]
 }
