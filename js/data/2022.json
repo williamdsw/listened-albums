@@ -175,6 +175,14 @@
       "releaseYear": "2005",
       "cover": "covers/soulfly--dark-ages.png",
       "streamLink": "https://open.spotify.com/album/2PfrKcExIR47WIxgpfk914"
+    },
+    {
+      "name": "Business as Usual",
+      "artist": "Men at Work",
+      "genre": "New Wave",
+      "releaseYear": "1981",
+      "cover": "covers/men-at-work--business-as-usual.png",
+      "streamLink": "https://open.spotify.com/album/4HDJMKkwAMVFewqfZcmf84"
     }
   ]
 }
