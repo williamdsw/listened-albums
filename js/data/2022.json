@@ -183,6 +183,14 @@
       "releaseYear": "1981",
       "cover": "covers/men-at-work--business-as-usual.png",
       "streamLink": "https://open.spotify.com/album/4HDJMKkwAMVFewqfZcmf84"
+    },
+    {
+      "name": "The Eternal Idol",
+      "artist": "Black Sabbath",
+      "genre": "Heavy Metal",
+      "releaseYear": "1987",
+      "cover": "covers/black-sabbath--the-eternal-idol.png",
+      "streamLink": "https://open.spotify.com/album/6iaMVyPdFZTCZind2SnEcp"
     }
   ]
 }
