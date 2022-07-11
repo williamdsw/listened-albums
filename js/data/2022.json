@@ -191,6 +191,14 @@
       "releaseYear": "1987",
       "cover": "covers/black-sabbath--the-eternal-idol.png",
       "streamLink": "https://open.spotify.com/album/6iaMVyPdFZTCZind2SnEcp"
+    },
+    {
+      "name": "Amarok",
+      "artist": "Mike Oldfield",
+      "genre": "Instrumental Rock",
+      "releaseYear": "1990",
+      "cover": "covers/mike-oldfield--amarok.png",
+      "streamLink": "https://open.spotify.com/album/2IamDQJZRFF8SKibgbRV6E"
     }
   ]
 }
