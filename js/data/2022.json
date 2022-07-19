@@ -199,6 +199,14 @@
       "releaseYear": "1990",
       "cover": "covers/mike-oldfield--amarok.png",
       "streamLink": "https://open.spotify.com/album/2IamDQJZRFF8SKibgbRV6E"
+    },
+    {
+      "name": "Skold",
+      "artist": "Tim Skold",
+      "genre": "Industrial Rock",
+      "releaseYear": "1996",
+      "cover": "covers/tim-skold--skold.png",
+      "streamLink": "https://www.youtube.com/watch?v=TKosnBOgInY"
     }
   ]
 }
