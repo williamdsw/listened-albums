@@ -207,6 +207,14 @@
       "releaseYear": "1996",
       "cover": "covers/tim-skold--skold.png",
       "streamLink": "https://www.youtube.com/watch?v=TKosnBOgInY"
+    },
+    {
+      "name": "Anomie",
+      "artist": "Tim Skold",
+      "genre": "Industrial Rock",
+      "releaseYear": "2011",
+      "cover": "covers/tim-skold--anomie.png",
+      "streamLink": "https://www.youtube.com/playlist?list=PLi9GfJrs8m1qdfJptiYpxfb9QM4VgU7WK"
     }
   ]
 }
