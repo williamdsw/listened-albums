@@ -1,6 +1,7 @@
 {
   "year": "2022",
-  "albums": [{
+  "albums": [
+    {
       "name": "Self-Titled",
       "artist": "Rage Against the Machine",
       "genre": "Rap Metal",
@@ -215,6 +216,14 @@
       "releaseYear": "2011",
       "cover": "covers/tim-skold--anomie.png",
       "streamLink": "https://www.youtube.com/playlist?list=PLi9GfJrs8m1qdfJptiYpxfb9QM4VgU7WK"
+    },
+    {
+      "name": "One World",
+      "artist": "Rare Earth",
+      "genre": "Funk Rock",
+      "releaseYear": "1971",
+      "cover": "covers/rare-earth--one-world.png",
+      "streamLink": "https://open.spotify.com/album/6Pe45ilFegFvHL1nrqJWat"
     }
   ]
 }
