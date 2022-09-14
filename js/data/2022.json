@@ -224,6 +224,14 @@
       "releaseYear": "1971",
       "cover": "covers/rare-earth--one-world.png",
       "streamLink": "https://open.spotify.com/album/6Pe45ilFegFvHL1nrqJWat"
+    },
+    {
+      "name": "The Sick, the Dying... and the Dead!",
+      "artist": "Megadeth",
+      "genre": "Thrash Metal",
+      "releaseYear": "2022",
+      "cover": "covers/megadeth--the-sick-the-dying-and-the-dead.png",
+      "streamLink": "https://open.spotify.com/album/1ziUtOuRT545OI4cnHEMhC"
     }
   ]
 }
