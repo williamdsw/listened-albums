@@ -232,6 +232,14 @@
       "releaseYear": "2022",
       "cover": "covers/megadeth--the-sick-the-dying-and-the-dead.png",
       "streamLink": "https://open.spotify.com/album/1ziUtOuRT545OI4cnHEMhC"
+    },
+    {
+      "name": "Vulgar",
+      "artist": "Dir En Grey",
+      "genre": "Alternative Metal",
+      "releaseYear": "2003",
+      "cover": "covers/dir-en-grey--vulgar.png",
+      "streamLink": "https://open.spotify.com/album/2GupP203BsHRsnDPmuLLZr"
     }
   ]
 }
