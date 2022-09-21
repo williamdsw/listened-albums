@@ -240,6 +240,14 @@
       "releaseYear": "2003",
       "cover": "covers/dir-en-grey--vulgar.png",
       "streamLink": "https://open.spotify.com/album/2GupP203BsHRsnDPmuLLZr"
+    },
+    {
+      "name": "Europe",
+      "artist": "Europe",
+      "genre": "Heavy Metal",
+      "releaseYear": "1983",
+      "cover": "covers/europe--europe.png",
+      "streamLink": "https://open.spotify.com/album/58BNQSQKl74qy14i1AuGVU"
     }
   ]
 }
