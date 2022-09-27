@@ -248,6 +248,14 @@
       "releaseYear": "1983",
       "cover": "covers/europe--europe.png",
       "streamLink": "https://open.spotify.com/album/58BNQSQKl74qy14i1AuGVU"
+    },
+    {
+      "name": "Solo in Soho",
+      "artist": "Philip Lynott",
+      "genre": "Rock",
+      "releaseYear": "1980",
+      "cover": "covers/philip-lynott--solo-in-soho.png",
+      "streamLink": "https://open.spotify.com/album/2rDqLB2SCj6lgiVkdYnA7c"
     }
   ]
 }
