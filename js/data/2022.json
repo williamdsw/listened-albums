@@ -264,6 +264,14 @@
       "releaseYear": "1965",
       "cover": "covers/bee-gees--the-bee-gees-sing-and-play-14-barry-gibb-songs.png",
       "streamLink": "https://www.youtube.com/playlist?list=PLQHk7mPXGsRiLp3uvA4rWAsIV1cp_rlOu"
+    },
+    {
+      "name": "Spicks and Specks",
+      "artist": "Bee Gees",
+      "genre": "Pop",
+      "releaseYear": "1966",
+      "cover": "covers/bee-gees--spicks-and-specks.png",
+      "streamLink": "https://www.youtube.com/playlist?list=PLHp5vq1og8iX6KSLvm0Cid_yGX-ctvdi9"
     }
   ]
 }
