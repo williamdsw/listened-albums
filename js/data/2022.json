@@ -256,6 +256,14 @@
       "releaseYear": "1980",
       "cover": "covers/philip-lynott--solo-in-soho.png",
       "streamLink": "https://open.spotify.com/album/2rDqLB2SCj6lgiVkdYnA7c"
+    },
+    {
+      "name": "The Bee Gees Sing and Play 14 Barry Gibb Songs",
+      "artist": "Bee Gees",
+      "genre": "Pop",
+      "releaseYear": "1965",
+      "cover": "covers/bee-gees--the-bee-gees-sing-and-play-14-barry-gibb-songs.png",
+      "streamLink": "https://www.youtube.com/playlist?list=PLQHk7mPXGsRiLp3uvA4rWAsIV1cp_rlOu"
     }
   ]
 }
