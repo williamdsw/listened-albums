@@ -272,6 +272,14 @@
       "releaseYear": "1966",
       "cover": "covers/bee-gees--spicks-and-specks.png",
       "streamLink": "https://www.youtube.com/playlist?list=PLHp5vq1og8iX6KSLvm0Cid_yGX-ctvdi9"
+    },
+    {
+      "name": "Bee Gees'1st",
+      "artist": "Bee Gees",
+      "genre": "Psychedelic Pop",
+      "releaseYear": "1967",
+      "cover": "covers/bee-gees--bee-gees-1st.png",
+      "streamLink": "https://www.youtube.com/playlist?list=PLCYglxB5L5O2-D--ML4p9WUTA05MilDgC"
     }
   ]
 }
