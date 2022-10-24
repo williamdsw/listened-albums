@@ -280,6 +280,14 @@
       "releaseYear": "1967",
       "cover": "covers/bee-gees--bee-gees-1st.png",
       "streamLink": "https://www.youtube.com/playlist?list=PLCYglxB5L5O2-D--ML4p9WUTA05MilDgC"
+    },
+    {
+      "name": "Dreamtime",
+      "artist": "The Cult",
+      "genre": "Gothic Rock",
+      "releaseYear": "1984",
+      "cover": "covers/the-cult--dreamtime.png",
+      "streamLink": "https://www.youtube.com/playlist?list=PLHTo__bpnlYXdP9tTIJIcNEPi7LOFLsrW"
     }
   ]
 }
