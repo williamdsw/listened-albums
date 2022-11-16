@@ -304,6 +304,14 @@
       "releaseYear": "2013",
       "cover": "covers/nine-inch-nails--hesitation-marks.png",
       "streamLink": "https://open.spotify.com/album/26m96TIXkNAiL4fl4aiFvd"
+    },
+    {
+      "name": "5-Track Demo Tape",
+      "artist": "Ill Prophecy",
+      "genre": "Power Metal",
+      "releaseYear": "1986",
+      "cover": "covers/5-track-demo-tape--ill-prophecy.png",
+      "streamLink": "https://www.youtube.com/watch?v=ojWmTNQox6s"
     }
   ]
 }
