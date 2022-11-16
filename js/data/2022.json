@@ -312,6 +312,14 @@
       "releaseYear": "1986",
       "cover": "covers/5-track-demo-tape--ill-prophecy.png",
       "streamLink": "https://www.youtube.com/watch?v=ojWmTNQox6s"
+    },
+    {
+      "name": "We Are Alive",
+      "artist": "Mad Alien",
+      "genre": "Heavy Metal",
+      "releaseYear": "1989",
+      "cover": "covers/mad-alien--we-are-alive.png",
+      "streamLink": "https://www.youtube.com/watch?v=UCyTkxl1-k8"
     }
   ]
 }
