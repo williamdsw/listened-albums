@@ -328,6 +328,13 @@
       "releaseYear": "2004",
       "cover": "covers/the-gazette--madara.png",
       "streamLink": "https://www.youtube.com/watch?v=_8_6ysH1RWs"
+    },
+    {
+      "name": "Race",
+      "artist": "Pseudo Echo",
+      "genre": "Hard Rock",
+      "releaseYear": "1988",
+      "cover": "covers/pseudo-echo--race.png"
     }
   ]
 }
