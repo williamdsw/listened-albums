@@ -335,6 +335,14 @@
       "genre": "Hard Rock",
       "releaseYear": "1988",
       "cover": "covers/pseudo-echo--race.png"
+    },
+    {
+      "name": "Withering to Death.",
+      "artist": "Dir En Grey",
+      "genre": "Gothic Metal",
+      "releaseYear": "2005",
+      "cover": "covers/dir-en-grey--withering-to-death.png",
+      "streamLink": "https://www.youtube.com/playlist?list=PLkdsczo2KYwZjNQ5AohCdLnMWZfE8iNOP"
     }
   ]
 }
