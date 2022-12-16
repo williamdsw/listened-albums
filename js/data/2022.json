@@ -343,6 +343,14 @@
       "releaseYear": "2005",
       "cover": "covers/dir-en-grey--withering-to-death.png",
       "streamLink": "https://www.youtube.com/playlist?list=PLkdsczo2KYwZjNQ5AohCdLnMWZfE8iNOP"
+    },
+    {
+      "name": "The Last Command",
+      "artist": "W.A.S.P.",
+      "genre": "Gothic Metal",
+      "releaseYear": "1985",
+      "cover": "covers/wasp--the-last-command.png",
+      "streamLink": "https://open.spotify.com/album/6208JTIcyn2wSRjiRXMTUv"
     }
   ]
 }
