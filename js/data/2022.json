@@ -347,10 +347,18 @@
     {
       "name": "The Last Command",
       "artist": "W.A.S.P.",
-      "genre": "Gothic Metal",
+      "genre": "Heavy Metal",
       "releaseYear": "1985",
       "cover": "covers/wasp--the-last-command.png",
       "streamLink": "https://open.spotify.com/album/6208JTIcyn2wSRjiRXMTUv"
+    },
+    {
+      "name": "Inside the Electric Circus",
+      "artist": "W.A.S.P.",
+      "genre": "Heavy Metal",
+      "releaseYear": "1986",
+      "cover": "covers/wasp--inside-the-electric-circus.png",
+      "streamLink": "https://open.spotify.com/album/7r37i0OjeTIcq22VIOCCFv"
     }
   ]
 }
