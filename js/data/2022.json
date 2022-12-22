@@ -359,6 +359,14 @@
       "releaseYear": "1986",
       "cover": "covers/wasp--inside-the-electric-circus.png",
       "streamLink": "https://open.spotify.com/album/7r37i0OjeTIcq22VIOCCFv"
+    },
+    {
+      "name": "Rock City",
+      "artist": "Riot",
+      "genre": "Heavy Metal",
+      "releaseYear": "1977",
+      "cover": "covers/riot--rock-city.png",
+      "streamLink": "https://open.spotify.com/album/2wGPmYF5a7fe6yasJOrY3e"
     }
   ]
 }
