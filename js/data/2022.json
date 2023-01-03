@@ -367,6 +367,14 @@
       "releaseYear": "1977",
       "cover": "covers/riot--rock-city.png",
       "streamLink": "https://open.spotify.com/album/2wGPmYF5a7fe6yasJOrY3e"
+    },
+    {
+      "name": "The 301 Demo Sessions",
+      "artist": "Pseudo Echo",
+      "genre": "Synthpop",
+      "releaseYear": "2005",
+      "cover": "covers/pseudo-echo--the-301-demo-sessions.png",
+      "streamLink": "https://open.spotify.com/album/5zIcv28AFb8BHu6U7UAzmA"
     }
   ]
 }
