@@ -8,6 +8,14 @@
       "releaseYear": "1986",
       "cover": "covers/crowded-house--crowded-house.png",
       "streamLink": "https://open.spotify.com/album/1dJpgn1rqvvr4yyNYLEYBG"
+    },
+    {
+      "name": "Castlevania: Rondo Of Blood",
+      "artist": "Konami Kukeiha Club",
+      "genre": "VGM",
+      "releaseYear": "1993",
+      "cover": "covers/konami-kukeiha-club--castlevania-rondo-of-blood.png",
+      "streamLink": "https://www.youtube.com/watch?v=6GXNDugXvqE"
     }
   ]
 }
