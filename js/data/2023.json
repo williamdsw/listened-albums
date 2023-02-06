@@ -16,6 +16,14 @@
       "releaseYear": "1993",
       "cover": "covers/konami-kukeiha-club--castlevania-rondo-of-blood.png",
       "streamLink": "https://www.youtube.com/watch?v=6GXNDugXvqE"
+    },
+    {
+      "name": "Mega Bomberman",
+      "artist": "Jun Chikuma",
+      "genre": "VGM",
+      "releaseYear": "1993",
+      "cover": "covers/jun-chikuma--mega-bomberman.png",
+      "streamLink": "https://www.youtube.com/watch?v=Hp5AWssF8Es"
     }
   ]
 }
