@@ -32,6 +32,14 @@
       "releaseYear": "2018",
       "cover": "covers/dir-en-grey--the-insulated-world.png",
       "streamLink": "https://open.spotify.com/album/2TKweqOQYNgkxZV7Qm2060"
+    },
+    {
+      "name": "Christie",
+      "artist": "Christie",
+      "genre": "Pop Rock",
+      "releaseYear": "1970",
+      "cover": "covers/christie--christie.png",
+      "streamLink": "https://open.spotify.com/album/0YtUDtmBOGWAerJN70aCUR"
     }
   ]
 }
