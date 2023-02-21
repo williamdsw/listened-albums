@@ -40,6 +40,14 @@
       "releaseYear": "1970",
       "cover": "covers/christie--christie.png",
       "streamLink": "https://open.spotify.com/album/0YtUDtmBOGWAerJN70aCUR"
+    },
+    {
+      "name": "Shinobi III: Return of the Ninja Master",
+      "artist": "Sega",
+      "genre": "VGM",
+      "releaseYear": "1993",
+      "cover": "covers/sega--shinobi-3-return-of-the-ninja-master.png",
+      "streamLink": "https://www.youtube.com/watch?v=h2FmS8OLbuo"
     }
   ]
 }
