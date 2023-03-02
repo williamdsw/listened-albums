@@ -48,6 +48,14 @@
       "releaseYear": "1993",
       "cover": "covers/sega--shinobi-3-return-of-the-ninja-master.png",
       "streamLink": "https://www.youtube.com/watch?v=h2FmS8OLbuo"
+    },
+    {
+      "name": "Restless Breed",
+      "artist": "Riot",
+      "genre": "Heavy Metal",
+      "releaseYear": "1982",
+      "cover": "covers/riot--restless-breed.png",
+      "streamLink": "https://open.spotify.com/album/0DfZDxVviNCr3m3wUvQVOz"
     }
   ]
 }
