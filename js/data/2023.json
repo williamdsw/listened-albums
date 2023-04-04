@@ -72,6 +72,14 @@
       "releaseYear": "1993",
       "cover": "covers/data-east--side-pocket-snes.jpg",
       "streamLink": "https://www.youtube.com/watch?v=0HYxDdPEndw"
+    },
+    {
+      "name": "Crankshaft",
+      "artist": "Crankshaft",
+      "genre": "Alternative Metal",
+      "releaseYear": "1994",
+      "cover": "covers/crankshaft-crankshaft.png",
+      "streamLink": "https://www.youtube.com/watch?v=nOVvln0wToM&list=PLTKaGNz07ecbirzrpTWvJXvEZPkm-4Qbj&index=1"
     }
   ]
 }
