@@ -64,6 +64,14 @@
       "releaseYear": "1995",
       "cover": "covers/fear-factory--demanufacture.png",
       "streamLink": "https://open.spotify.com/album/65GdWk0paVbY04benEKKIU"
+    },
+    {
+      "name": "Side Pocket (SNES)",
+      "artist": "Data East",
+      "genre": "VGM",
+      "releaseYear": "1993",
+      "cover": "covers/data-east--side-pocket-snes.jpg",
+      "streamLink": "https://www.youtube.com/watch?v=0HYxDdPEndw"
     }
   ]
 }
