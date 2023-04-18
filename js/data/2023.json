@@ -80,6 +80,14 @@
       "releaseYear": "1994",
       "cover": "covers/crankshaft-crankshaft.png",
       "streamLink": "https://www.youtube.com/watch?v=nOVvln0wToM&list=PLTKaGNz07ecbirzrpTWvJXvEZPkm-4Qbj&index=1"
+    },
+    {
+      "name": "72 Seasons",
+      "artist": "Metallica",
+      "genre": "Heavy Metal",
+      "releaseYear": "2023",
+      "cover": "covers/metallica--72-seasons.png",
+      "streamLink": "https://open.spotify.com/artist/2ye2Wgw4gimLv2eAKyk1NB"
     }
   ]
 }
