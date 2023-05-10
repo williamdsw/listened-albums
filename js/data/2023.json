@@ -88,6 +88,14 @@
       "releaseYear": "2023",
       "cover": "covers/metallica--72-seasons.png",
       "streamLink": "https://open.spotify.com/artist/2ye2Wgw4gimLv2eAKyk1NB"
+    },
+    {
+      "name": "Metal Fatigue",
+      "artist": "Allan Holdsworth",
+      "genre": "Jazz Fusion",
+      "releaseYear": "1985",
+      "cover": "covers/allan-holdsworth--metal-fatigue.png",
+      "streamLink": "https://open.spotify.com/album/2rDyArQ8dVp7Hwicvo7LVN"
     }
   ]
 }
