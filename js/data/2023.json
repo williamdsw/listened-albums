@@ -104,6 +104,14 @@
       "releaseYear": "1986",
       "cover": "covers/allan-holdsworth--atavachron.png",
       "streamLink": "https://open.spotify.com/album/4aO3Kf7SFkkSO6X1wWi9Qv"
+    },
+    {
+      "name": "Elemental",
+      "artist": "Tears For Fears",
+      "genre": "New Wave",
+      "releaseYear": "1993",
+      "cover": "covers/tears-for-fears--elemental.png",
+      "streamLink": "https://open.spotify.com/album/3yYeYX26WNepcjOFY34ki4"
     }
   ]
 }
