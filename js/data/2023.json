@@ -112,6 +112,14 @@
       "releaseYear": "1993",
       "cover": "covers/tears-for-fears--elemental.png",
       "streamLink": "https://open.spotify.com/album/3yYeYX26WNepcjOFY34ki4"
+    },
+    {
+      "name": "Vinyl Confessions",
+      "artist": "Kansas",
+      "genre": "Progressive Rock",
+      "releaseYear": "1982",
+      "cover": "covers/kansas--vinyl-confessions.png",
+      "streamLink": "https://open.spotify.com/album/31kDP6XF3s8dIt0iGFS4PX"
     }
   ]
 }
