@@ -120,6 +120,14 @@
       "releaseYear": "1982",
       "cover": "covers/kansas--vinyl-confessions.png",
       "streamLink": "https://open.spotify.com/album/31kDP6XF3s8dIt0iGFS4PX"
+    },
+    {
+      "name": "Cold Blooded",
+      "artist": "Rick James",
+      "genre": "Funk",
+      "releaseYear": "1983",
+      "cover": "covers/rick-james--cold-blooded.png",
+      "streamLink": "https://open.spotify.com/album/0OvSems3CIWCs2Tty0oO9B"
     }
   ]
 }
