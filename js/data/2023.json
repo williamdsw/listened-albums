@@ -128,6 +128,14 @@
       "releaseYear": "1983",
       "cover": "covers/rick-james--cold-blooded.png",
       "streamLink": "https://open.spotify.com/album/0OvSems3CIWCs2Tty0oO9B"
+    },
+    {
+      "name": "Tactics Ogre: The Knight of Lodis",
+      "artist": "Konami",
+      "genre": "VGM",
+      "releaseYear": "2001",
+      "cover": "covers/konami--tactics-ogre-the-knight-of-lodis.png",
+      "streamLink": "https://www.youtube.com/watch?v=QCNo2FdsJes"
     }
   ]
 }
