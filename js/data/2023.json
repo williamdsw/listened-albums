@@ -144,6 +144,14 @@
       "releaseYear": "1973",
       "cover": "covers/raul-seixas--krig-ha-bandolo.png",
       "streamLink": "https://www.youtube.com/playlist?list=PLVnkoLiLMTm5Z3u_J8rBC8xNLdc6Txwdr"
+    },
+    {
+      "name": "The Complete Jetzons",
+      "artist": "The Jetzons",
+      "genre": "New Wave",
+      "releaseYear": "1982",
+      "cover": "covers/the-jetzons--the-complete-jetzons.png",
+      "streamLink": "https://open.spotify.com/album/5SgWn9vZ7uZurp5JOM2ssz"
     }
   ]
 }
