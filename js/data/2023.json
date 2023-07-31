@@ -152,6 +152,14 @@
       "releaseYear": "1982",
       "cover": "covers/the-jetzons--the-complete-jetzons.png",
       "streamLink": "https://open.spotify.com/album/5SgWn9vZ7uZurp5JOM2ssz"
+    },
+    {
+      "name": "Tenchu 3 Original Soundtrack",
+      "artist": "Toshiyuki Asakura",
+      "genre": "VGM",
+      "releaseYear": "2003",
+      "cover": "covers/toshiyuki-asakura--tenchu-3-original-soundtrack.png",
+      "streamLink": "https://www.youtube.com/playlist?list=PL2S7vVonTF8XLqf_wtZP9nVAQSZ5R26qY"
     }
   ]
 }
