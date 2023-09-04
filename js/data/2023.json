@@ -168,6 +168,14 @@
       "releaseYear": "1987",
       "cover": "covers/pretty-maids--future-world.png",
       "streamLink": "https://www.youtube.com/playlist?list=OLAK5uy_m1_aKA1MB0Skdju121wodHh7zD-JTTY0k"
+    },
+    {
+      "name": "It's My Life",
+      "artist": "Talk Talk",
+      "genre": "Synthpop",
+      "releaseYear": "1984",
+      "cover": "covers/talk-talk--its-my-life.png",
+      "streamLink": "https://www.youtube.com/watch?v=dzMhTPl-uv0&list=PLrnz4iRZQNldwhGhIsfyzBnC_Su6EPuTd"
     }
   ]
 }
