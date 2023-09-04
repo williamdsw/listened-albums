@@ -176,6 +176,14 @@
       "releaseYear": "1984",
       "cover": "covers/talk-talk--its-my-life.png",
       "streamLink": "https://www.youtube.com/watch?v=dzMhTPl-uv0&list=PLrnz4iRZQNldwhGhIsfyzBnC_Su6EPuTd"
+    },
+    {
+      "name": "Abigail",
+      "artist": "King Diamond",
+      "genre": "Heavy Metal",
+      "releaseYear": "1987",
+      "cover": "covers/king-diamond--abigail.jpg",
+      "streamLink": "https://www.youtube.com/watch?v=k_6oMRtc118"
     }
   ]
 }
