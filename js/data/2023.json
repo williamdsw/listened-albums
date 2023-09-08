@@ -184,6 +184,14 @@
       "releaseYear": "1987",
       "cover": "covers/king-diamond--abigail.jpg",
       "streamLink": "https://www.youtube.com/watch?v=k_6oMRtc118"
+    },
+    {
+      "name": "Fatal Portrait",
+      "artist": "King Diamond",
+      "genre": "Heavy Metal",
+      "releaseYear": "1986",
+      "cover": "covers/king-diamond--fatal-portrait.jpg",
+      "streamLink": "https://www.youtube.com/watch?v=jhzX0HYh3Qs"
     }
   ]
 }
