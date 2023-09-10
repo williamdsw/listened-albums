@@ -192,6 +192,14 @@
       "releaseYear": "1986",
       "cover": "covers/king-diamond--fatal-portrait.jpg",
       "streamLink": "https://www.youtube.com/watch?v=jhzX0HYh3Qs"
+    },
+    {
+      "name": "Triumph and Agony",
+      "artist": "Warlock",
+      "genre": "Heavy Metal",
+      "releaseYear": "1987",
+      "cover": "covers/warlock--triumph-and-agony.jpg",
+      "streamLink": "https://www.youtube.com/playlist?list=PLI6kLIhBBwmTuxPxhpiLc3mkV-pCuiYPw"
     }
   ]
 }
