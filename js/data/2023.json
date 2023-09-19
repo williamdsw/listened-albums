@@ -200,6 +200,14 @@
       "releaseYear": "1987",
       "cover": "covers/warlock--triumph-and-agony.jpg",
       "streamLink": "https://www.youtube.com/playlist?list=PLI6kLIhBBwmTuxPxhpiLc3mkV-pCuiYPw"
+    },
+    {
+      "name": "The Party's Over",
+      "artist": "Talk Talk",
+      "genre": "Synthpop",
+      "releaseYear": "1982",
+      "cover": "covers/talk-talk--the-partys-over.jpg",
+      "streamLink": "https://www.youtube.com/playlist?list=PLiN-7mukU_REuEIJaSpOL30eKeKz91jt3"
     }
   ]
 }
