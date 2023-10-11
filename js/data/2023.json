@@ -208,6 +208,14 @@
       "releaseYear": "1982",
       "cover": "covers/talk-talk--the-partys-over.jpg",
       "streamLink": "https://www.youtube.com/playlist?list=PLiN-7mukU_REuEIJaSpOL30eKeKz91jt3"
+    },
+    {
+      "name": "Bathory",
+      "artist": "Bathory",
+      "genre": "Black Metal",
+      "releaseYear": "1984",
+      "cover": "covers/bathory--bathory.png",
+      "streamLink": "https://www.youtube.com/watch?v=lL6NUBk_j6M"
     }
   ]
 }
