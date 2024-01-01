@@ -224,6 +224,14 @@
       "releaseYear": "1984",
       "cover": "covers/celtic-frost--morbid-tales.png",
       "streamLink": "https://www.youtube.com/watch?v=Hmy1FCt298I&list=PLV7HVh9VBYQL43KhZa_r5aQgEqMkZLxnQ"
+    },
+    {
+      "name": "Epicus Doomicus Metallicus",
+      "artist": "Candlemass",
+      "genre": "Epic Doom Metal",
+      "releaseYear": "1986",
+      "cover": "covers/candlemass--epicus-doomicus-metallicus.png",
+      "streamLink": "https://www.youtube.com/playlist?list=OLAK5uy_ncSHOKdrNT2uCSKbmxHOnp3a-iXhiVAM4"
     }
   ]
 }
