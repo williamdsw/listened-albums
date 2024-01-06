@@ -8,6 +8,14 @@
       "releaseYear": "1987",
       "cover": "covers/candlemass--nightfall.png",
       "streamLink": "https://www.youtube.com/playlist?list=OLAK5uy_nqDZBgm9_55QKBfbl2rZ18yPBoEe0_KL0"
+    },
+    {
+      "name": "Bestial Devastation",
+      "artist": "Cavalera",
+      "genre": "Black Metal",
+      "releaseYear": "2023",
+      "cover": "covers/cavalera--bestial-devastation.png",
+      "streamLink": "https://www.youtube.com/watch?v=bgtSx15N7hQ"
     }
   ]
 }
