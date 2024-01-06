@@ -1,0 +1,13 @@
+{
+  "year": "2024",
+  "albums": [
+    {
+      "name": "Nightfall",
+      "artist": "Candlemass",
+      "genre": "Epic Doom Metal",
+      "releaseYear": "1987",
+      "cover": "covers/candlemass--nightfall.png",
+      "streamLink": "https://www.youtube.com/playlist?list=OLAK5uy_nqDZBgm9_55QKBfbl2rZ18yPBoEe0_KL0"
+    }
+  ]
+}
