@@ -13,6 +13,7 @@ const dataUrls = [
   "js/data/2021.json",
   "js/data/2022.json",
   "js/data/2023.json",
+  "js/data/2024.json",
 ];
 
 // EVENTS
