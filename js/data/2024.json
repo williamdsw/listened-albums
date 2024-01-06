@@ -16,6 +16,14 @@
       "releaseYear": "2023",
       "cover": "covers/cavalera--bestial-devastation.png",
       "streamLink": "https://www.youtube.com/watch?v=bgtSx15N7hQ"
+    },
+    {
+      "name": "Stone Sour",
+      "artist": "Stone Sour",
+      "genre": "Alternative Metal",
+      "releaseYear": "2002",
+      "cover": "covers/stone-sour--stone-sour.png",
+      "streamLink": "https://www.youtube.com/watch?v=17lyHzgLlIA"
     }
   ]
 }
