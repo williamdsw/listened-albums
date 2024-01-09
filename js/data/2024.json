@@ -24,6 +24,14 @@
       "releaseYear": "2002",
       "cover": "covers/stone-sour--stone-sour.png",
       "streamLink": "https://www.youtube.com/watch?v=17lyHzgLlIA"
+    },
+    {
+      "name": "Bossa Nova Hotel",
+      "artist": "Michael Sembello",
+      "genre": "Rock",
+      "releaseYear": "1983",
+      "cover": "covers/michael-sembello--bossa-nova-hotel.png",
+      "streamLink": "https://www.youtube.com/playlist?list=PLmjz-onNqJyAJcfAuA8jkxceip_Mr5QlA"
     }
   ]
 }
