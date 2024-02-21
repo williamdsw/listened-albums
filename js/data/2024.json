@@ -32,6 +32,14 @@
       "releaseYear": "1983",
       "cover": "covers/michael-sembello--bossa-nova-hotel.png",
       "streamLink": "https://www.youtube.com/playlist?list=PLmjz-onNqJyAJcfAuA8jkxceip_Mr5QlA"
+    },
+    {
+      "name": "Primitive Cool",
+      "artist": "Mick Jagger",
+      "genre": "Rock",
+      "releaseYear": "1987",
+      "cover": "covers/mick-jagger--primitive-cool.png",
+      "streamLink": "https://www.youtube.com/playlist?list=OLAK5uy_lXfjgzSV5w3vogmsSWZAQWxYvIRX-_xJo"
     }
   ]
 }
