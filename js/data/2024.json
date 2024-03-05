@@ -48,6 +48,14 @@
       "releaseYear": "1985",
       "cover": "covers/phenomena--phenomena.png",
       "streamLink": "https://www.youtube.com/watch?v=vEfghpKlPY4"
+    },
+    {
+      "name": "Phenomena II",
+      "artist": "Dream Runner",
+      "genre": "Hard Rock",
+      "releaseYear": "1987",
+      "cover": "covers/phenomena--dream-runner.png",
+      "streamLink": "https://www.youtube.com/watch?v=s3BmkjFhjq4"
     }
   ]
 }
