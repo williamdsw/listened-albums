@@ -40,6 +40,14 @@
       "releaseYear": "1987",
       "cover": "covers/mick-jagger--primitive-cool.png",
       "streamLink": "https://www.youtube.com/playlist?list=OLAK5uy_lXfjgzSV5w3vogmsSWZAQWxYvIRX-_xJo"
+    },
+    {
+      "name": "Phenomena",
+      "artist": "Phenomena",
+      "genre": "Hard Rock",
+      "releaseYear": "1985",
+      "cover": "covers/phenomena--phenomena.png",
+      "streamLink": "https://www.youtube.com/watch?v=vEfghpKlPY4"
     }
   ]
 }
