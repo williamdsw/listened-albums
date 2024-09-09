@@ -56,6 +56,14 @@
       "releaseYear": "1987",
       "cover": "covers/phenomena--dream-runner.png",
       "streamLink": "https://www.youtube.com/watch?v=s3BmkjFhjq4"
+    },
+    {
+      "name": "Heaven Can Wait",
+      "artist": "Gamma Ray",
+      "genre": "Heavy Metal",
+      "releaseYear": "1990",
+      "cover": "covers/gamma-ray--heaven-can-wait.png",
+      "streamLink": "https://www.youtube.com/watch?v=vjd83bym7VM"
     }
   ]
 }
