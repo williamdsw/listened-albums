@@ -64,6 +64,14 @@
       "releaseYear": "1990",
       "cover": "covers/gamma-ray--heaven-can-wait.png",
       "streamLink": "https://www.youtube.com/watch?v=vjd83bym7VM"
+    },
+    {
+      "name": "QR",
+      "artist": "Quiet Riot",
+      "genre": "Heavy Metal",
+      "releaseYear": "1988",
+      "cover": "covers/quiet-riot--qr.png",
+      "streamLink": "https://www.youtube.com/playlist?list=OLAK5uy_mv46Ef_wdgpv-bBIZ83utlRWT-WWM50To"
     }
   ]
 }
