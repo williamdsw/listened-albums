@@ -72,6 +72,14 @@
       "releaseYear": "1988",
       "cover": "covers/quiet-riot--qr.png",
       "streamLink": "https://www.youtube.com/playlist?list=OLAK5uy_mv46Ef_wdgpv-bBIZ83utlRWT-WWM50To"
+    },
+    {
+      "name": "Album",
+      "artist": "Public Image Ltd",
+      "genre": "Alternative Rock",
+      "releaseYear": "1986",
+      "cover": "covers/public-image-ltd--album.png",
+      "streamLink": "https://www.youtube.com/playlist?list=PLo-CVFFA0DtX9uA050P2dioIiVJ0iV7F8"
     }
   ]
 }
